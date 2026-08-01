@@ -1,0 +1,393 @@
+:root {
+  color-scheme: light;
+  --bg: #f7efe3;
+  --ink: #231b16;
+  --muted: #76685f;
+  --line: #e5d3bd;
+  --panel: rgba(255, 252, 247, 0.9);
+  --panel-strong: #fffaf2;
+  --accent: #9a321e;
+  --popular-reading: #c01818;
+  --accent-2: #264f43;
+  --gold: #c28b2c;
+  --shadow: 0 24px 80px rgba(58, 37, 20, 0.16);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background:
+    radial-gradient(circle at top left, rgba(194, 139, 44, 0.26), transparent 34rem),
+    radial-gradient(circle at 80% 10%, rgba(38, 79, 67, 0.18), transparent 28rem),
+    linear-gradient(135deg, #f9f1e6 0%, var(--bg) 48%, #efe0cc 100%);
+  color: var(--ink);
+  font-family:
+    "Noto Serif KR",
+    "Iowan Old Style",
+    "Source Han Serif K",
+    Georgia,
+    serif;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.shell {
+  width: min(1040px, calc(100% - 28px));
+  margin: 0 auto;
+  padding: 30px 0 44px;
+}
+
+.hero {
+  padding: 32px 36px;
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  background: linear-gradient(145deg, rgba(255, 252, 247, 0.94), rgba(255, 247, 235, 0.78));
+  box-shadow: var(--shadow);
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(2.1rem, 5vw, 4.2rem);
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.lead {
+  max-width: 720px;
+  margin: 16px 0 22px;
+  color: var(--muted);
+  font-size: 0.98rem;
+  line-height: 1.6;
+}
+
+.search label {
+  display: block;
+  margin-bottom: 7px;
+  color: var(--accent-2);
+  font-weight: 800;
+}
+
+.search-row {
+  display: flex;
+  gap: 12px;
+}
+
+.search input {
+  flex: 1;
+  min-width: 0;
+  border: 2px solid transparent;
+  border-radius: 12px;
+  padding: 13px 15px;
+  background: #fff;
+  color: var(--ink);
+  font-size: 1.05rem;
+  box-shadow: inset 0 0 0 1px var(--line);
+}
+
+.search input:focus {
+  border-color: var(--gold);
+  outline: none;
+}
+
+.search button,
+.sample-buttons button {
+  border: 0;
+  border-radius: 12px;
+  background: var(--accent);
+  color: #fffaf2;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.search button {
+  padding: 0 22px;
+}
+
+.sample-buttons button {
+  padding: 9px 14px;
+  background: #fffaf2;
+  color: var(--accent);
+  box-shadow: inset 0 0 0 1px var(--line);
+}
+
+.hint,
+.status {
+  color: var(--muted);
+}
+
+.hint {
+  margin: 10px 0 0;
+  font-size: 0.92rem;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin: 22px 0;
+  color: var(--muted);
+}
+
+.sample-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.status {
+  min-height: 1.5rem;
+  margin: 8px 2px 12px;
+  font-size: 0.92rem;
+}
+
+.results {
+  display: grid;
+  gap: 12px;
+}
+
+.candidate-panel {
+  padding: 16px;
+}
+
+.candidate-panel h2 {
+  margin: 0 0 10px;
+  font-size: 1rem;
+}
+
+.candidate-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(78px, 1fr));
+  gap: 6px;
+}
+
+.candidate-button {
+  display: grid;
+  grid-template-rows: auto minmax(2.2em, auto);
+  gap: 3px;
+  justify-items: center;
+  align-items: center;
+  min-width: 0;
+  min-height: 64px;
+  padding: 8px 6px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fffaf2;
+  color: var(--ink);
+  box-shadow: none;
+}
+
+.candidate-button:hover,
+.candidate-button:focus-visible {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+}
+
+.candidate-char {
+  font-size: 1.45rem;
+  line-height: 1;
+  font-weight: 800;
+}
+
+.candidate-meta {
+  color: var(--muted);
+  width: 100%;
+  min-width: 0;
+  max-width: 100%;
+  font-size: 0.76rem;
+  line-height: 1.18;
+  text-align: center;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+
+.candidate-button.meta-compact .candidate-meta {
+  font-size: 0.68rem;
+}
+
+.candidate-button.meta-dense .candidate-meta {
+  font-size: 0.6rem;
+  line-height: 1.12;
+}
+
+.candidate-button.meta-tiny .candidate-meta {
+  font-size: 0.53rem;
+  line-height: 1.08;
+}
+
+.panel {
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--panel);
+  box-shadow: 0 14px 50px rgba(58, 37, 20, 0.1);
+}
+
+.entry {
+  overflow: hidden;
+}
+
+.entry-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 18px;
+  align-items: flex-start;
+  padding: 18px 22px;
+  background: linear-gradient(90deg, rgba(154, 50, 30, 0.1), rgba(38, 79, 67, 0.08));
+}
+
+.char {
+  font-size: 3.1rem;
+  line-height: 1;
+  font-weight: 900;
+}
+
+.traditional-label {
+  margin-left: 8px;
+  color: var(--muted);
+  font-size: 0.84rem;
+}
+
+.meaning {
+  max-width: 500px;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.55;
+  text-align: right;
+}
+
+.reading {
+  padding: 18px 22px 22px;
+  border-top: 1px solid var(--line);
+}
+
+.reading-title {
+  margin-bottom: 12px;
+  color: var(--accent-2);
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+.reading-meaning {
+  margin: -6px 0 12px;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.55;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.card {
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 13px;
+  background: var(--panel-strong);
+}
+
+.card h3 {
+  margin: 0 0 8px;
+  color: var(--accent);
+  font-size: 0.92rem;
+}
+
+.field {
+  display: grid;
+  grid-template-columns: 5em minmax(0, 1fr);
+  gap: 8px;
+  padding: 6px 0;
+  border-top: 1px dashed #e6d8c7;
+}
+
+.field:first-of-type {
+  border-top: 0;
+}
+
+.label {
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.value {
+  font-weight: 800;
+  font-size: 0.9rem;
+  word-break: keep-all;
+}
+
+.popular-reading {
+  color: var(--popular-reading);
+  font-weight: 900;
+}
+
+.field[data-key="finalReconstruction"] .value,
+.field[data-key="initialIpa"] .value {
+  font-family:
+    "Noto Sans",
+    "Noto Sans Symbols 2",
+    "Charis SIL",
+    "Doulos SIL",
+    "Segoe UI",
+    "Arial Unicode MS",
+    sans-serif;
+}
+
+.notes {
+  margin-top: 22px;
+  padding: 26px 30px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+.notes h2 {
+  margin: 0 0 10px;
+  color: var(--ink);
+}
+
+.notes code {
+  border-radius: 6px;
+  padding: 2px 5px;
+  background: #efe0cc;
+  color: var(--accent);
+}
+
+@media (max-width: 860px) {
+  .hero {
+    padding: 30px 22px;
+  }
+
+  .search-row,
+  .entry-head {
+    flex-direction: column;
+  }
+
+  .search button {
+    padding: 14px 20px;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .meaning {
+    text-align: left;
+  }
+}

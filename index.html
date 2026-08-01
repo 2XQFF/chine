@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>중고한어 음운 사전</title>
+    <meta
+      name="description"
+      content="정체자 한자를 검색해 초기·만기 중고한어 성모와 운모, 현대 한자문화권 독음을 비교하는 사전"
+    />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero" aria-labelledby="page-title">
+        <p class="eyebrow">中古漢語 · 漢字音 對照</p>
+        <h1 id="page-title">중고한어 음운 사전</h1>
+        <p class="lead">
+          한자 정체자를 입력하면 초기중고한어와 만기중고한어의 성모·운모 정보,
+          각 중고한어 독음이 담당하는 의미, 그리고 표준중국어·광동어·일본
+          오음/한음·한국 한자음·베트남 한자음을 한 화면에서 비교합니다.
+        </p>
+        <form id="search-form" class="search" autocomplete="off">
+          <label for="query">한자 검색</label>
+          <div class="search-row">
+            <input
+              id="query"
+              name="query"
+              type="search"
+              inputmode="search"
+              placeholder="한자 또는 한국 한자음을 입력하세요"
+              autofocus
+            />
+            <button type="submit">검색</button>
+          </div>
+          <p class="hint">예: 東, 十 또는 한국 한자음 사, 동, 십</p>
+        </form>
+      </section>
+
+      <section id="status" class="status" role="status"></section>
+      <section id="results" class="results" aria-live="polite"></section>
+
+    </main>
+
+    <template id="entry-template">
+      <article class="entry panel">
+        <header class="entry-head">
+          <div>
+            <span class="char"></span>
+            <span class="traditional-label">정체자</span>
+          </div>
+          <div class="meaning"></div>
+        </header>
+        <div class="reading-list"></div>
+      </article>
+    </template>
+
+    <template id="reading-template">
+      <section class="reading">
+        <div class="reading-title"></div>
+        <div class="grid">
+          <div class="card mc early"></div>
+          <div class="card mc late"></div>
+          <div class="card sino"></div>
+        </div>
+      </section>
+    </template>
+
+    <script src="./data.js"></script>
+    <script src="./han-variants.js"></script>
+    <script src="./han-display-forms.js"></script>
+    <script src="./enrichment.js"></script>
+    <script src="./hanviet.js"></script>
+    <script src="./korean-hun.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
