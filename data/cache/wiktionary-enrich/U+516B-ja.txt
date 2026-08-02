@@ -1,0 +1,192 @@
+{{kana-DEFAULTSORT|はち}}
+==漢字==
+{{kanji|八|0}}
+{{kanji variants|捌=[[大字]]}}
+{{筆順}} 
+
+===字源===
+* [[指事文字|指事]]。二つに分かれる線を記したもの<ref group="字源">季旭昇撰 『説文新証』 芸文印書館、2014年、80頁。</ref>。「[[わかれる]]」を意味する[[漢語]]｛[[別]] {{phoneme|*bret}}｝を表す字。[[仮借]]して「[[やっつ]]」を意味する漢語｛[[八]] {{phoneme|*prˤet}}｝に用いる。
+{{字源}}
+* [[上古音]]は布之道『[http://www.kaom.net/sgy_bzd.php 広韻形声考]』による。
+<references group="字源" />
+
+===意義===
+#(数字) '''[[8]]'''。[[二]]の三乗。
+#(古・日本のみ)漠然と数が大きいこと。多いこと。
+#*[[やおよろず|八百万]]、[[やえ|八重]]、[[やくも|八雲]]、[[やちよ|八千代]]、[[やしま|八島]]
+
+===語源===
+* シナ・チベット祖語 *brjat より。
+** チベット語 [[བརྒྱད]] 、ビルマ語 [[ရှစ်]] （古ビルマ語 [[ရျှတ်]] ）、西夏語 [[𘉋]] などと同根。
+
+
+
+[[Category:数字|8]]
+[[Category:漢数字]]
+=={{L|ja}}==
+[[Category:{{ja}}]]
+{{wikipedia|8}}
+{{ja-kanji|常用=ハチ,や,や-つ,やっ-つ,よう|施策=教育:1|呉音=ハチ|漢音=ハツ|音=ハ,ハイ|訓=や,や-つ,やっ-つ,よう}}
+===数詞===
+[[Category:{{ja}} 数詞]]
+[[Category:日本語 基数]]
+'''八'''（[[はち]]）
+# [[二]]の[[三]]乗、即ち[[やっつ]]を表す[[数]]。[[七]]の次で[[九]]の一つ前。[[8]]。[[エイト]]。
+===={{pron}}====
+{{ja-pron|はち|acc=2}}
+{{ja-accent-common|region=京阪|a|は|ち}}
+===={{trans}}====
+{{trans-top}}
+*{{T|is}}: [[átta]]
+*{{T|ga}}: [[ocht]] (counting
+*{{T|as}}: [[আট]] (āṭ)
+*{{T|ar}}: {{ARchar|[[ثمانية]]}} (θamáːnya)
+*{{T|arc}}:
+*:シリア文字: [[ܬܡܢܝܐ]] (tmānyā, tmonyo) {{m}}, [[ܬܡܢܐ]] (tmāne, tmone) {{f}}
+*:ヘブル文字: [[תמניא]] (tmānyā, tmonyo) {{m}}, [[תמנא]] (tmāne, tmone) {{f}}
+*{{T|sq}}: [[tetë]]
+*{{T|hy}}: [[ութ]] (ut)
+*{{T|it}}: [[otto]]
+*{{T|io}}: [[ok]]
+*{{T|ia}}: [[octo]]
+*{{T|id}}: [[delapan]]
+*{{T|oaa}}: [[ӡакпу]]（南部方言）, [[ӡапку]]（北部方言）
+*{{T|cy}}: [[wyth]]
+*{{T|vot}}: [[kahõsaa]] / [[кахысаа]]
+*{{T|uk}}: {{t|uk|вісім}}
+*{{T|ur}}: {{URchar|[[اٹھ|آٹھ]]}} {{Unicode|(āṭh)}}
+*{{T|en}}: [[eight]]
+*:{{T|ang}}: [[eahta]]
+*{{T|et}}: [[kaheksa]]
+*{{T|eo}}: [[ok]]
+*{{T|myv}}: [[кавксо]] (kavkso)
+*{{T|oc}}: [[vuèch]]
+*{{T|nl}}: [[acht]]
+*{{T|or}}: [[ଆଥ]] (āth)
+*{{T|ca}}: [[vuit]]
+*{{T|krl}}: [[kaheksa]]
+*{{T|el}}: [[οχτώ]] (okhtó), [[οκτώ]] (októ)
+*{{T|gn}}: [[poapy]]
+*{{T|gu}}: [[આઠ]] {{IPAchar|(āṭha)}}
+*{{T|km}}: {{KMchar|[[ប្រាំបី]]}} (pram bei)
+*{{T|ka}}: [[რვა]] (rva)
+*{{T|ku}}: [[heşt]], {{KUchar|[[هه‌شت]]}}
+*{{T|qu}}: [[pusajj]]
+*{{T|got}}: {{t|got|𐌰𐌷𐍄𐌰𐌿}}
+*{{T|kw}}: [[eth]]
+*{{T|co}}: [[ottu]]
+*{{T|kv}}: {{RUchar|[[кӧкямыс]]}} (kökjamys)
+*{{T|sa}}: [[अष्टन्]] (a<u>st</u>an), [[अष्ट]] {{Unicode|(aṣṭa)}}
+*{{T|sd}}: {{SDchar|[[اَٺَ]]}} (āta)
+*{{T|si}}: [[අට]] (āta)
+*{{T|sv}}: [[åtta]]
+*{{T|gd}}: [[ochd]]
+*{{T|es}}: [[ocho]]
+*{{T|sk}}: [[osem]]
+*{{T|sl}}: [[osem]]
+*{{T|sw}}: [[nane]]
+*{{T|sh}}: {{t|sh|osam}}
+*{{T|th}}: {{THchar|[[แปด]]}} (bpàet)
+*{{T|tl}}: [[walo]]
+*{{T|cs}}: [[osm]]
+*{{T|chr}}: [[ᏧᏁᎳ]] (tsunela)
+*{{T|zh}}: [[八]] (bā)
+*{{T|ko}}: [[여덟]] (yeodeol), [[팔]] (pal)
+*{{T|dv}}: [[އަށެހ]] (asheh)
+*{{T|te}}: [[ఎనిమిది]]
+*{{T|da}}: [[otte]]
+*{{T|de}}: [[acht]]
+*{{T|tok}}: [[luka]] [[tu]] [[wan]]
+*{{T|tpi}}: [[etpela]]
+*{{T|tr}}: [[sekiz]]
+*{{T|gld}}: [[дякпон]]
+*{{T|nah}}: [[chicuei]]
+*{{T|fy}}: [[acht]]
+*{{T|no}}: [[åtte]]
+*{{T|eu}}: [[zortzi]]
+*{{T|haw}}: [[walu]]
+*{{T|hu}}: [[nyolc]]
+*{{T|pa}}: [[ਅੱਠ]] (aṭṭh)
+*{{T|hi}}: [[आठ]] {{IPAchar|(āṭh)}}
+*{{T|fi}}: [[kahdeksan]]
+*{{T|fr}}: [[huit]]
+*{{T|bg}}: [[осем]] (ósem)
+*{{T|br}}: [[eizh]]
+*{{T|vi}}: [[tám]]
+*{{T|he}}: [[שמונה|שְׁמוֹנֶה]] (shmóne) {{f}} ''(数える時)'', [[שמונה|שְׁמוֹנָה]] (shmona) {{m}}
+*{{T|fa}}: {{FAchar|[[هشت|هَشت]]}} (hæšt)
+*{{T|bn}}: [[আট]] (āṭ)
+*{{T|pl}}: [[osiem]]
+*{{T|pt}}: [[oito]]
+*{{T|mi}}: [[waru]]
+*{{T|mg}}: [[valo]]
+*{{T|chm}}: [[кандаше]] (kandaše)
+*{{T|mt}}: [[tmienja]]
+*{{T|ms}}: [[lapan]]
+*{{T|mnc}}: {{MongolUnicode|[[ᠵᠠᡴᡡᠨ]]}} (jakūn)
+*{{T|gv}}: [[hoght]]
+*{{T|la}}: [[octo]]
+*{{T|lv}}: [[astoņi]] {{m}}, [[astoņas]] {{f}}
+*{{T|ro}}: [[opt]]
+*{{T|ru}}: {{t|ru|восемь}}
+{{trans-bottom}}
+
+==={{prov}}===
+{{col4|lang=ja|一八|間八|四苦八苦|七転八起|七転八倒|十中八九|尺八|十八番|十八界|八月|八角形|八字髭|八丈島|八道|八辺形|八幡|八面|八面六臂|八角|八掛|八苦|八九分|八卦|八紘|八荒|八朔|八種競技|八正道|八達|八丁|八分|八方|八方美人|八宝菜|村八分|八重|八重歯|八重葎|八百|八潮路|八切|八手|八橋|八岐大蛇|八日|八代}}
+
+===手書きの字形について===
+第2画の終筆は払っても止めてもよい<ref>[http://www.bunka.go.jp/seisaku/bunkashingikai/kokugo/hokoku/pdf/jitai_jikei_shishin.pdf 『常用漢字表の字体・字形に関する指針（報告）』]p.50 2016年2月29日 文化庁</ref>。
+
+=={{L|zh}}==
+{{zh-cat|ba1|常=1|hsk=甲|hsk2=1}}
+[[Category:{{zhx-sic}}|ba2]]
+[[Category:{{yue}}|baat3]]
+[[Category:{{nan}}|peh1]]
+[[Category:{{nan-tws}}|boih4]]
+[[Category:{{mnp}}|bai6]]
+[[Category:{{hak}}|pat]]
+[[Category:{{wuu}}|paq7]]
+[[Category:{{gan}}|bat6]]
+[[Category:{{hsn}}|ba6]]
+[[Category:{{csp}}|bah4]]
+[[Category:{{dng}}|ба]]
+[[Category:{{ltc}}|peat4]]
+{{zh-han|m=bā,lù|m-s=ba2|m-x=pā|dg=ба|c=baat3,baat2|c-t=bat1|g=bat6|pfs=pat|gd=bad5|j=bah4|mb=băi|md=báik|mn=poeh/peh/piē/pat|mn-t=boih4|mn-l=boi7|sp=pat2|w=7paq}}
+** '''[[中古音]]''': peat
+** '''[[上古音]]'''
+*** '''白一平-サガール''': *pˤret
+*** '''鄭張''': *preːd
+
+==={{numeral}}===
+[[Category:{{zh}}_{{numeral}}|ba1]]
+#[[8]]。
+==={{verb}}===
+#（閩南）{{おくりがな2|知|し|る|しる}}、{{おくりがな2|分|わ|かる|わかる}}。
+==={{prov}}===
+{{col4|lang=zh|八角|八宝菜|八達|八辺形|八潮路|八道|八丁|八幡|八方|八分|八卦|八荒|八角形|八九分|八苦|八面|八橋|八切|八日|八手|八朔|八月|八紘|八重|八州|尺八|七転八倒|八字髭|四苦八苦|七転八起|一八|八德|八百羅漢|八百壯士|八拜|八拜之交|八寶飯|八寶粥|八分音符|七上八下|七嘴八舌|七手八腳|七死八活|七零八落|七顛八倒|亂七八糟|五花八門|八面威風|八面玲瓏|半斤八兩|四平八穩|四通八達|四面八方|才高八斗|橫七豎八|胡說八道|七上八落|七折八扣}}
+
+==={{idiom}}===
+{{col2|zh|八九不離十|八千里路雲和月|不如意事常八九}}
+{{nan-cat|pat|数詞|動詞}}
+
+=={{L|ko}}==
+[[Category:{{ko}}|팔 八]]
+{{ko-hanja|hangeul=[[팔]]|eumhun=[[여덟]] 팔|rv=pal|mr=p'al|y=phal}}
+==={{numeral}}===
+[[Category:{{ko}}_基数|팔 八]]
+#[[8]]。
+==={{prov}}===
+{{col3|{{ko-l|팔방미인|八方美人}}}}
+
+=={{L|vi}}==
+{{vi-han|bát}}
+==={{prov}}===
+*{{vi-l|八卦|bát quái}}
+
+=={{コード}}==
+{{文字コード|jis=1-40-12|mj={{mjmoji|007273|007274}}|gb=B0CB|cns=1-442C|big5=A44B|ksx=1001-7822}}
+{{検字|倉頡=HO|四角=8000.0}}
+{{字典|dj=0274.130|hdz=10241.030|大字源=547/548|大漢語林=697|康煕=0126.260|新大字典=899|新潮漢字=692/693|諸橋=1450}}
+
+==脚注==
+<references />

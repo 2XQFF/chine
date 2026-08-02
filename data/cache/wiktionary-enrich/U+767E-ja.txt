@@ -1,0 +1,209 @@
+{{kana-DEFAULTSORT|ひゃく}}
+==漢字==
+{{kanji|白|1}}
+{{kanji variants|佰|陌=[[大字]]}}
+{{筆順}}
+===字源===
+* [[形声文字|形声]]。「[[一]]」（数）+音符「[[白]] {{phoneme|*PAK}}」<ref group="字源">張世超、孫凌安、金国泰、馬如森 『金文形義通解』 中文出版社、1996年、850-856頁。</ref>。「[[100]]」を意味する[[漢語]]｛[[百]] {{phoneme|*praak}}｝を表す字。
+{{字源}}
+<references group="字源" />
+===意義===
+#（数詞）[[十]]の二乗。[[数]]の[[100]]。
+# [[あまた]]。[[多数]]。
+#* [[百科事典]]、[[百鬼夜行]]、[[凡百]]
+
+;関連字
+*十の累乗数
+**'''[[十]]'''：十の一乗
+**'''[[千]]'''：十の三乗
+**'''[[萬]]（[[万]]）'''：十の四乗
+[[Category:数字|100]]
+
+=={{L|ja}}==
+{{wikipedia|100}}
+[[Category:日本語]]
+{{ja-kanji|常用=ヒャク|施策=教育:1|呉音=ヒャク|漢音=ハク|訓=もも|名乗=お,どう,なり,ひゅく,もんど,ゆ}}
+===数詞===
+[[Category:日本語_数詞]]
+[[Category:漢数字]]
+#（'''[[ヒャク]]、[[もも#名詞：百|もも]]、[[ほ#数詞|ほ]]'''） [[十]]の二乗。100。
+==== 慣用句 ====
+* [[明日の百より今日の五十]]
+* [[百も承知、二百も合点]]
+==== 翻訳 ====
+{{trans-top}}
+*Klallam: [[náč̕əwəč]]
+*Mayo: [[mamni taká]]
+*Micmac: [[gasgʼptnnaqan]]
+*Miwok: [[ṣijento]]
+*Odawa: [[godwak]]
+*Tarahumara: [[biré ciento]]
+*Tonkawa: [[seːnto]]
+*{{T|is}}: {{t|is|öld}}
+*:古アイスランド語: [[hundrað]]
+*{{T|ay}}: [[pataka]]
+*{{T|ga}}: {{t|ga|céad}}
+*:{{T|sga}}: {{t|sga|cét}}
+*{{T|av}}: {{t|av|satǝm}}
+*{{T|ar}}: {{t|ar|مِئَة}}
+*{{T|sq}}: {{t|sq|qind}}
+*{{T|it}}: {{t|it|cento|m}}
+*{{T|ia}}: {{t|ia|cento}}
+*{{T|id}}: {{t|id|ratus}}
+*{{T|oaa}}: {{t|oaa|таӈгу}}
+*{{T|cy}}: {{t|cy|cant}}
+*:{{T|owl}}: {{t|owl|can't}}
+*:{{T|wlm}}: {{t|wlm|can't}}
+*{{T|uk}}: {{t|uk|сто}}
+*{{T|en}}: {{t|en|hundred}}
+*:{{T|ang}}: {{t|ang|hund}}
+*:{{T|enm}}: {{t|enm|hundredth}}
+*{{T|et}}: {{t|et|sada}}
+*{{T|eo}}: {{t|eo|cent}}
+*{{T|oj}}: {{t|oj|ingodwāk}}
+*{{T|nl}}: {{t|nl|honderd|f}}
+*{{T|ca}}: {{t|ca|cent}}
+*{{T|gl}}: {{t|gl|cen}}
+*ガリフナ？<!--Garífuna-->: [[san]]
+*{{T|se}}: {{t|se|čuođi}}
+*{{T|el}}: {{t|el|εκατόν}}
+*グアラニ語: [[sa]]
+*{{T|gu}}: {{t|gu|સો}}
+*クリーク語<!--Creek-->: [[cokpe]]
+*クリンゴン: [[]] (vatlh)
+*{{T|ka}}: {{t|ka|ასი}}
+*{{T|ku}}: [[sed]]
+*{{T|got}}: {{t|got|𐌷𐌿𐌽𐌳𐌰}}
+*{{T|egy}}: [[šaā]]
+*{{T|non}}: {{t|non|hundruð}}
+*古リトアニア語: [[šim̃tas]]
+*{{T|co}}: {{t|co|centu}}
+*{{T|sc}}: {{t|sc|centu}}
+*{{T|sa}}: [[शतेन]] (śatena), [[शतं]] (śata)
+*シャイエン語<!--Cheyenne-->: [[noˀka mȧhtóhtȯhnóˀe]]
+*ショショーニ語<!--Shoshone-->: [[biasēmote]]
+*{{T|si}}: {{t|si|සියය}}
+*{{T|sv}}: {{t|sv|hundra}}
+*{{T|es}}: {{t|es|cien}}, {{t|es|ciento}}
+*{{T|sk}}: {{t|sk|sto}}
+*{{T|sl}}: {{t|sl|sto}}
+*{{T|sh}}:
+*キリル文字: {{t|sh|сто}}
+*ラテン文字: {{t|sh|sto}}, {{t|sh|stotina|f}}
+*{{T|th}}: {{t|th|ร้อย}}
+*{{T|tl}}: {{t|tl|daan}}
+*{{T|cs}}: {{t|cs|sto}}
+*{{T|chr}}: {{t|chr|ᏍᎪᏗᏔᏭᏈ}}
+*{{T|zh}}:
+*:{{T|yue}}: {{t|yue|百|tr=baak3}}
+*:{{T|cmn}}: {{t|cmn|百|tr=bǎi}}
+*{{T|ko}}: {{t|ko|백}}
+*チョクトー語: [[tahlepa ačǎfa]]
+*{{T|dv}}: {{t|sv|ސަތޭކަ}}
+*{{T|te}}: {{t|te|వంద}}, {{t|te|నూరు}}
+*{{T|da}}: {{t|da|hundred}}, {{t|da|hundrede}}
+*{{T|de}}: {{t|de|hundert}}, {{t|de|einhundert}}
+*:{{T|goh}}: {{t|goh|hunt}}
+*トカラ語:
+**A: {{t|xto|känt}}
+**B: {{t|txb|kante}}
+*{{T|tr}}: {{t|tr|yüz}}
+*{{T|na}}: {{t|na|aibu}}
+*{{T|gld}}: {{t|gld|танго}}
+*{{T|fy}}: {{t|fy|hûndert}}
+*{{T|nov}}: {{t|nov|sent}}
+*{{T|no}}: {{t|no|hundre}}
+*{{T|hu}}: {{t|hu|száz}}
+*{{T|hi}}: {{t|hi|सौ}}
+*フィン語: [[sata]]
+*{{T|fr}}: {{t|fr|cent|m}}
+*{{T|bg}}: {{t|bg|сто}}
+*{{T|br}}: {{t|br|kant}}
+*:中期ブルトン語: [[kant]]
+*{{T|he}}: {{t|he|מאה|tr=meá}}
+*{{T|fa}}: {{t|fa|صَد|tr=sæd}}
+*{{T|pl}}: {{t|pl|sto}}
+*{{T|pt}}: {{t|pt|cem}}, {{t|pt|cento}}
+*{{T|mr}}: {{t|mr|शंभर}}
+*マン語: keead
+*{{T|mnc}}: {{MongolUnicode|lang=mnc|[[ᡨᠠᠩᡤᡡ|ᡨᠠᠩᡤᡡ]]}} ([[tanggū]])
+*モホーク語: [[tewenˀniawe]]
+*ラコタ語: [[opawiƞǧe]]
+*{{T|la}}: {{t|la|centum}}
+*{{T|rap}}: [[ho’e hanere]]
+*{{T|ro}}: {{t|ro|sută|f}}
+*{{T|ru}}: {{t|ru|сто}}
+{{trans-bottom}}
+
+==={{prov}}===
+*[[百全]]
+*[[百花繚乱]]
+*[[百鬼夜行]]
+*[[百戦錬磨]]
+*[[百分率]]
+*[[百葉箱]]
+
+=={{L|zh}}==
+==={{etym}}===
+*{{etyl|sit-pro|zh|sort=bai3}} {{m|zh|sit-pro|*pV-rja(k)}}。チベット語 [[བརྒྱ]] 、古ビルマ語 [[ရျာ]] 、西夏語 [[𘊝]] 等と同根<ref group="語源">龔煌城 「A comparative study of the Chinese, Tibetan, and Burmese vowel systems」 『漢蔵語研究論文集』 北京大学出版社、2002年、8頁。<br>Nathan W. Hill, ''The Historical Phonology of Tibetan, Burmese, and Chinese'', Cambridge University Press, 2019, p. 246.</ref>。
+<references group="語源" />
+{{zh-cat|bai3|数詞|hsk=甲|hsk2=2|常=1}}
+==={{pron}}===
+{{zh-han
+|m=bǎi,bó
+|m-s=be2
+|m-nj=be̊q
+|dg=бый
+|c=baak3
+|c-t=bak1,bak2
+|g=bah6/bet6
+|pfs=pak
+|hrs=bag
+|gd=bag5
+|j=bai2/bieh4
+|mb=bă
+|md=báh/báik
+|mn=xm,qz,tw,sg,pn:pah/xm,qz,tw:peh/zz,pn:peeh/xm,zz,tw:pek/qz:piak/ly:piēe
+|mn-t=bêh4
+|px=pt,jk,nr,xy,yy,ft:ba6/pt,jk,nr,xy,yy,ft:beh6
+|w=7paq
+|x=be6
+|mc=y
+|oc=y
+}}
+==={{numeral}}===
+bǎi
+# [[十]]の二乗。100。
+==={{prov}}===
+*[[百科全书]] ([[百科全書]])
+
+=={{L|ko}}==
+{{ko-han|백|맥|eumhun=[[일백]] 백, 힘쓸 맥|pos=numeral}}
+==={{numeral}}===
+백
+#100。
+===={{prov}}====
+{{top}}
+* {{l|ko|백과}} &lt;[[百科]], [[百果]]&gt;
+* {{l|ko|백과사전}} &lt;[[百科事典]]&gt;
+* {{l|ko|백귀야행}} &lt;[[百鬼夜行]]&gt;
+* {{l|ko|백리향}} &lt;[[百里香]]&gt;
+* {{l|ko|백무일실}} &lt;[[百無一失]]&gt;
+* {{l|ko|백무일취}} &lt;[[百無一取]]&gt;
+* {{l|ko|백문}} &lt;[[百聞]]&gt;
+* {{l|ko|백문이 불여일견}} &lt;百聞 - 不如一見&gt;
+* {{l|ko|백물}} &lt;[[百物]]&gt;
+* {{l|ko|백병}} &lt;[[百病]]&gt;
+* {{l|ko|백합}} &lt;[[百合]]&gt;
+* {{l|ko|백합화}} &lt;[[百合花]]&gt;
+* {{l|ko|백화점}} &lt;[[百貨店]]&gt;
+* {{l|ko|위키백과}} &lt; - 百科&gt;
+{{bottom}}
+
+=={{L|vi}}==
+{{vi-han|bách}}
+
+=={{コード}}==
+{{文字コード|jis=1-41-20|mj={{mjmoji|017985}}|gb=B0D9|cns=1-484B|big5=A6CA|ksx=1001-5B5D}}
+{{検字|倉頡=MA|四角=1060.0}}
+{{字典|dj=1199.010|hdz=42643.010|大字源=26|大漢語林=7411|康煕=0785.040|新大字典=10489|新潮漢字=7621|諸橋=22679}}

@@ -1,0 +1,299 @@
+{{kana-DEFAULTSORT|に}}
+==漢字==
+{{kanji|二|0}}
+{{kanji variants|弍=[[古字]]}}
+*筆順 : [[image:{{PAGENAME}}-bw.png|150px]]
+===字源===
+* [[指事文字|指事]]または[[会意文字|会意]]。「[[一]]」をふたつ重ねた形<ref group="字源">季旭昇撰 『説文新証』 芸文印書館、2014年、902-903頁。</ref>。「[[ふたつ]]」を意味する[[漢語]]｛[[二]] {{phoneme|*nih}}｝を表す字。
+{{字源}}
+* [[上古音]]は布之道『[http://www.kaom.net/sgy_bzd.php 広韻形声考]』による。
+<references group="字源" />
+===意義===
+#（数字）'''[[2]]'''
+
+=={{L|ja}}==
+{{wikipedia|2}}
+[[Category:{{ja}}]]
+{{ja-kanji|常用=ニ,ふた,ふた-つ|施策=教育:1|呉音=ニ|漢音=ジ|訓=ふた,ふた-つ,ふ,ふう;姓氏等}}
+==={{noun}}===
+[[Category:{{ja}}_{{noun}}]]
+[[Category:{{ja}}_数詞]]
+[[Category:数字|2]]
+[[Category:漢数字]]
+#[[ふたつ]]。
+#*'''二'''回・'''二'''個・'''二'''度・'''二'''本　等
+#[[つぎ]]。二番目。
+#*'''二'''次・'''二'''世・'''二'''流　等
+===={{prov}}====
+{{prov-top}}
+*{{ふりがな|一石二鳥|いっせきにちょう|yomilink=n}}
+*{{ふりがな|十二因縁|じゅうにいんねん|yomilink=n}}
+*{{ふりがな|十二支|じゅうにし|yomilink=n}}
+*{{ふりがな|十二処|じゅうにしょ|yomilink=n}}
+*{{ふりがな|十重二十重|とえはたえ|yomilink=n}}
+*{{ふりがな|二院制|にいんせい|yomilink=n}}
+*{{ふりがな|二王|におう|yomilink=n}}
+*{{ふりがな|二月|にがつ|yomilink=n}}
+*{{ふりがな|二期作|にきさく|yomilink=n}}
+*{{ふりがな|二言|にごん|yomilink=n}}
+*{{ふりがな|二次曲面|にじきょくめん|yomilink=n}}
+*{{ふりがな|二次元|にじげん|yomilink=n}}
+*{{ふりがな|二重|にじゅう|yomilink=n}}
+*{{ふりがな|二重唱|にじゅうしょう|yomilink=n}}
+*{{ふりがな|二重人格|にじゅうじんかく|yomilink=n}}
+*{{ふりがな|二重奏|にじゅうそう|yomilink=n}}
+*{{ふりがな|二十八宿|にじゅうはっしゅく|yomilink=n}}
+*{{ふりがな|二乗|にじょう|yomilink=n}}
+*{{ふりがな|二心|にしん|yomilink=n}}
+*{{ふりがな|二束三文|にそくさんもん|yomilink=n}}
+*{{ふりがな|二刀流|にとうりゅう|yomilink=n}}
+*{{ふりがな|二人称|ににんしょう|yomilink=n}}
+*{{ふりがな|二年草|にねんそう|yomilink=n}}
+*{{ふりがな|二倍体|にばいたい|yomilink=n}}
+*{{ふりがな|二枚貝|にまいがい|yomilink=n}}
+*{{ふりがな|二枚舌|にまいじた|yomilink=n}}
+*{{ふりがな|二枚目|にまいめ|yomilink=n}}
+*{{ふりがな|二毛作|にもうさく|yomilink=n}}
+*{{ふりがな|二律背反|にりつはいはん|yomilink=n}}
+*{{ふりがな|二流|にりゅう|yomilink=n}}
+*{{ふりがな|二十歳|はたち|yomilink=n}}
+*{{ふりがな|二十日|はつか|yomilink=n}}
+*{{ふりがな|二人|ふたり|yomilink=n}}
+*{{ふりがな|二日|ふつか|yomilink=n}}
+*{{ふりがな|無二|むに|yomilink=n}}
+{{prov-bottom}}
+===={{idiom}}====
+*[[二兎を追う者は一兎をも得ず]]
+*[[二の足を踏む]]
+*[[二の次]]
+*[[二の舞]]
+==={{trans}}===
+{{trans-top}}
+*{{T|is}}: [[tveir]] {{m}}, [[tvær]] {{f}}, [[tvö]] {{n}}
+*{{T|ay}}: [[paya]]
+*{{T|ga}}: [[dó]], [[dhá]]
+*{{T|as}}: [[দুই]] (dui)
+*{{apa}}: [[naki]]
+*{{T|af}}: [[twee]]
+*{{T|ar}}: {{ARchar|[[اثنان]]}} {{Unicode|(’iθnáːn)}}, {{ARchar|[[اثنين]]}} {{Unicode|(’iθnéːn)}}
+*{{T|sq}}: [[dy]]
+*{{T|hy}}: [[երկու]] (yerkoo)
+*{{T|it}}: {{t|it|due}}
+*{{T|yi}}: (tsvay)
+*{{T|io}}: [[du]]
+*{{T|ia}}: {{t|ia|duo}}
+*{{T|id}}: [[dua]]
+*{{T|oaa}}: {{t|oaa|дө̄}}（南部方言）, {{t|oaa|дӯ}}（北部方言）
+*{{T|cy}}: [[dau]] {{m}}, [[dwy]] {{f}}
+*{{T|vot}}: [[kahsi]] / [[кахси]]
+*{{T|uk}}: [[два]] (dva) {{m}}, [[дві]] (dvi) {{f}}, [[двоє]] (dvóje, 集合), [[двійко]] (dvíjko, 口語), [[двієчко]] (dvíječko, 口語･指小辞)
+*{{T|ur}}: {{URchar|[[دو]]}} (do)
+*{{T|en}}: [[two]]
+*:{{T|ang}}: {{t|ang|twēġen|m}}, {{t|ang|twā|f|n}}
+*{{T|et}}: [[kaks]]
+*{{T|eo}}: [[du]] (1), [[dua]] (2)
+*{{T|myv}}: [[кавто]] (kavto)
+*{{T|oc}}: [[dos]]
+*{{T|nl}}: [[twee]]
+*{{T|or}}: [[ଦୁଇ]] (dui)
+*{{T|ca}}: [[dos]] {{m}}, [[dues]] {{f}}
+*{{T|gl}}: [[dous]]
+*{{T|krl}}: [[kaksi]]
+*{{T|el}}: [[δύο]] (dýo)
+*{{T|gn}}: [[mokõi]]
+*{{T|kl}}: [[marluk]]
+*{{T|ka}}: [[ორი]] (ori)
+*{{T|ku}}: [[du]], {{FAchar|[[دو]]}}
+*{{T|got}}: {{Gothic|[[𐍄𐍅𐌰𐌹]]}} (twai) {{m}}, {{Gothic|[[𐍄𐍅𐌰]]}} (twa) {{n}}, {{Gothic|[[𐍄𐍅𐍉𐍃]]}} (twos) {{f}}
+*{{T|kw}}: [[dew]] {{m}}, [[diw]] {{f}}
+*{{T|kv}}: [[кык]] (kyk)
+*{{smi}}: [[guokte]]
+*{{T|sa}}: [[द्वि]] dvi, [[द्वे]] (dve)
+*{{T|sd}}: {{SDchar|[[ٻَه]]}} (ba)
+*{{T|si}}: [[දෙක]]
+*{{T|sv}}: [[två]]
+*{{T|gd}}: [[dà]] (修飾用法), [[dhà]] (独立使用時)
+*{{T|es}}: [[dos]]
+*{{T|sk}}: {{t|sk|dva}}
+*{{T|sl}}: [[dve]], {{t|sl|dva}}
+*{{T|sh}}:
+*:キリル文字: {{t|sh|два}}
+*:ラテン文字: {{t|sh|dva}}
+*{{T|th}}: {{THchar|[[สอง]]}} (sááwng)
+*{{T|tl}}: [[dalawá]]
+*{{T|cs}}: {{t|cs|dva}}, [[dvě]]
+*{{T|chr}}: [[ᏔᎵ]] (tali)
+*{{T|zh}}: [[二]], [[两]] (èr, liǎng)
+*:{{T|yue}}: [[二]], [[两]] (yi6)
+*{{T|ko}}: [[둘]] (dul) / [[두]] (du); [[이]] ([[二]], i)
+*{{T|dv}}: [[ދޭއް]] (deyh)
+*{{T|tet}}: [[rua]]
+*{{T|te}}: [[రెండు]] (remddu)
+*{{T|da}}: {{t|da|to}}
+*{{T|de}}: [[zwei]], [[zwo]]
+*{{T|tpn}}: [[mokõî]]
+*{{T|ng}}: {{Unicode|[[enyɔ̃]], [[enyɔ]]}}
+*{{T|tpi}}: [[tupela]]
+*{{T|ood}}: [[go]]
+*{{T|tr}}: [[iki]]
+*{{T|gld}}: [[дюэр]]
+*{{T|nah}}: [[ome]]
+*{{T|fy}}: [[twa]]
+*{{T|no}}: {{t|no|to}}
+*{{T|eu}}: {{t|eu|bi}}
+*{{T|haw}}: [[lua]]
+*{{T|hu}}: [[kettő]], [[két]]
+*{{T|pa}}: [[ਦੋ]] (dō)
+*{{T|hi}}: [[दो]] (do)
+*{{T|fj}}: [[rua]]
+*{{T|fi}}: [[kaksi]]
+*{{T|fr}}: [[deux]]
+*{{T|bg}}: [[две]] (dve)
+*{{T|br}}: [[daou]] {{m}}, [[div]] {{f}}
+*{{T|vi}}: [[hai]]
+*{{T|he}}: [[שתיים]] (štáyim) {{f}} ''数え上げ時'', [[שניים]] (šnáyim) {{m}}
+*{{T|fa}}: {{FAchar|[[دو]]}} (do)
+*{{T|bn}}: {{BNchar|[[দুই]]}} (dui)
+*{{T|pl}}: [[dwa]]
+*{{T|pt}}: [[dois]] {{m}}, [[duas]] {{f}}
+*{{T|mh}}: [[ruo]]
+*{{T|mi}}: [[rua]]
+*{{T|arn}}: [[epu]]
+*{{T|mr}}: [[दोन]] (dona)
+*{{T|chm}}: [[кокыт]] (kokyt)
+*{{T|mrc}}: [[xvikk]]
+*{{T|mnc}}: {{MongolUnicode|lang=mnc|[[ᠵᡠᠸᡝ]]}} ([[juwe]])
+*{{T|gv}}: daa, ghaa
+*{{T|la}}: [[duo]] {{m}}, {{n}}; [[duae]] {{f}}
+*{{T|lv}}: [[divi]]
+*{{T|lt}}: {{t|lt|du}}
+*{{T|ro}}: [[doi]] {{m}}, [[două]] {{f}}
+*{{T|ru}}: {{t|ru|два|m|n}}, {{t|ru|две|f}}, {{t|ru|двое}} (集合)
+*{{T|jbo}}: [[re]]
+*{{T|rom}}: [[dui]]
+*{{T|wa}}: [[deus]]
+{{trans-bottom}}
+
+=={{L|zh}}==
+{{zh-cat|er4|数詞|形容詞|hsk=甲|hsk2=1|常=1}}
+==={{etym}}===
+{{etyl|sit-pro|zh|sort=er4}} {{m|sit-pro|*kV-ni-s}}
+==={{pron}}===
+{{zh-han|
+|m=èr
+|m-s=er4
+|m-nj=ēr
+|dg=эр3
+|m-x=ēr
+|c=ji6
+|c-dg=ji3
+|c-t=ngei5
+|c-yj=ji6
+|g=eo5
+|pfs=ngi
+|hrs=ngi˖
+|gd=ngi4
+|ct=ni5
+|j=er3
+|mb=nī
+|md=nê
+|mn=zz,ct,zp,kh,tn,tc,yl,sx,mg,pn,sg:jī/xm,qz,jj,na,ha,yc,tp,lk,km,hc,ph,sg:lī/tc:gī/ly:li
+|mn-t=ri6/ri7/no6
+|mn-l=lu7/yi1/no6
+|px=pt,xy:zi5/pt:di5/xy:li5/pt,xy:i5
+|sp=nji6
+|w=6gni,6gher,6lian
+|w-j=6ng,6er
+|x=e5
+|x-l=eu5
+|x-h=er5
+|mc=y
+|oc=y
+}}
+==={{numeral}}===
+#[[2]]。一に一を加えた数。
+==={{adjective}}===
+#ほかの
+#*'''二'''话
+#*:ほかの話、余計な話
+#*独一无'''二'''
+#*:ただのひとつの、唯一無二の。
+#熟語の“[[二乎]]”の略称。馬鹿な、アホな
+==={{syn}}===
+*[[两]]（但し、序数詞としては用いない）
+==={{prov}}===
+{{rel-top}}
+*{{zh-l|二八}}
+*{{zh-l|二把刀}}
+*{{zh-l|二把手}}
+*{{zh-l|二百五}}
+*{{zh-l|二部合唱}}
+*{{zh-l|二重性}}
+*{{zh-l|二傳手}}
+*{{zh-l|二次方程}}
+*{{zh-l|二次函數}}
+*{{zh-l|二次能源}}
+*{{zh-l|二次曲線}}
+*{{zh-l|二道販子}}
+*{{zh-l|二等公民}}
+*{{zh-l|二惡英}}
+*{{zh-l|二房}}
+*{{zh-l|兒房東}}
+*{{zh-l|二伏}}
+*{{zh-l|二副}}
+*{{zh-l|二桿子}}
+*{{zh-l|二管輪}}
+*{{zh-l|二鍋頭}}
+*{{zh-l|二胡}}
+*{{zh-l|二虎相爭，必有一傷}}
+*{{zh-l|二乎}}, {{zh-l|二忽}}
+*{{zh-l|二花臉}}
+*{{zh-l|二話}}
+*{{zh-l|二黃}}, {{zh-l|二簧}}
+*{{zh-l|二婚}}, {{zh-l|二婚兒}}, {{zh-l|二婚頭}}
+*{{zh-l|兒混子}}
+*{{zh-l|二極管}}
+*{{zh-l|二價}}
+*{{zh-l|二進宮}}
+*{{zh-l|二進制}}
+*{{zh-l|二賴子}}
+*{{zh-l|二郎腿}}
+*{{zh-l|二愣子}}
+*{{zh-l|二流子}}
+*{{zh-l|二硫化碳}}
+*{{zh-l|二門}}, {{zh-l|二門兒}}
+*{{zh-l|二拇指}}
+*{{zh-l|二皮臉}}
+*{{zh-l|二十八星瓢蟲}}
+*{{zh-l|二十四節氣}}
+*{{zh-l|二手}}, {{zh-l|二手兒}}
+*{{zh-l|二手貨}}
+*{{zh-l|二水}}, {{zh-l|二水兒}}
+*{{zh-l|二踢腳}}
+*{{zh-l|二五眼}}
+*{{zh-l|二弦}}
+*{{zh-l|二線}}
+*{{zh-l|二氧化氮}}
+*{{zh-l|二氧化矽}}
+*{{zh-l|二氧化硫}}
+*{{zh-l|二氧化碳}}
+*{{zh-l|二氧化物}}
+*{{zh-l|二一添作五}}
+*{{zh-l|二尾子}}
+*{{zh-l|二意}}
+*{{zh-l|二者}}
+*{{zh-l|二指}}
+{{rel-bottom}}
+
+=={{L|ko}}==
+{{ko-han|이|eumhun=[[두]] 이|pos=numeral}}
+==={{numeral}}===
+#{{context|cardinal|漢数詞|lang=ko|skey=이}}[[2]]。
+
+=={{L|vi}}==
+{{vi-han|nhì|nhị}}
+
+=={{コード}}==
+{{文字コード|jis=1-38-83|mj={{mjmoji|006437}}|gb=B6FE|cns=1-4428|big5=A447|ksx=1001-6C23}}
+{{検字|倉頡=MM|四角=1010.0}}
+{{字典|dj=0175.060|hdz=10002.010|大字源=82|大漢語林=116|康煕=0086.010|新大字典=212|新潮漢字=133|諸橋=247}}

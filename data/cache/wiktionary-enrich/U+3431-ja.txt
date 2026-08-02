@@ -1,0 +1,50 @@
+{{kana-DEFAULTSORT|しん}}
+==漢字==
+<span lang="ja" xml:lang="ja" style="font-size:350%">{{PAGENAME}}</span>
+* {{部首|𠆢|3}}
+* {{総画|5}}
+* [[異体字]] : <span style="font-size:250%">[[鬒]]</span>（語義1）, <span style="font-size:250%">[[𠘱]]</span>（語義2）
+
+=== 字源 ===
+* [[形声文字|形声]]。「[[人]]」+音符「[[彡]]」。
+{{字源}}
+=== 意義 ===
+#「[[鬒]]」の[[本字]]（『{{w|説文解字}}』掲載）。[[かみのけ|髪の毛]]が[[おおい|多い]]。
+#「[[𠘱]]」の[[同字]]（『{{w|玉篇}}』掲載）。[[ことり|小鳥]]が[[とぶ|飛ぶ]]。
+
+=={{L|ja}}==
+[[Category:{{ja}}]]
+==={{pron}}===
+* 音読み
+** [[呉音]] : [[シン]]
+** [[漢音]] : [[シン]]
+
+=={{L|zh}}==
+[[Category:{{zh}}|zhen3]]
+[[Category:{{yue}}|chan2]]
+{{trans_link|zh|{{PAGENAME}}}}
+* '''ローマ字表記'''
+** '''[[普通話]]'''
+*** '''[[ピンイン]]''': [[zhěn]] (zhen3)
+
+=={{L|vi}}==
+{{vi-han|chín|chỉn|xỉn|pos=numeral|cat2=形容詞|cat3=副詞}}
+==={{adjective}}===
+chín
+#（食べ物で）[[なか|中]]までよく[[やける|焼け]]ている。
+#（[[くだもの|果物]]などの）[[熟]]した。
+xỉn
+#[[くろずむ|黒ずん]]だ。[[変色]]した。
+==={{adverb}}===
+chỉn
+#{{context|archaic|lang=vi|skey=chin4}} ～だけ。
+#{{context|archaic|lang=vi|skey=chin4}} [[本当]]に。
+==={{numeral}}===
+chín
+#[[9]]。
+
+==コード等==
+{{codepoint}}
+* [[倉頡入力法]] : 人竹竹竹 (OHHH)
+
+[[カテゴリ:漢字]]

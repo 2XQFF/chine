@@ -1,0 +1,224 @@
+{{kana-DEFAULTSORT|しち}}
+==漢字==
+{{kanji|一|1}}
+{{kanji variants|柒|漆|質=[[大字]]|𠀁=[[篆書体]]}}
+*筆順 : [[File:七-bw.png|150px]]
+===字源===
+* [[指事文字|指事]]。筆画の中央を切断した形<ref group="字源">季旭昇撰 『説文新証』 芸文印書館、2014年、951-952頁。</ref>。「[[きる]]」を意味する[[漢語]]｛[[切]] {{phoneme|*tsʰˤik}}｝を表す字。[[仮借]]して「[[ななつ]]」を意味する漢語｛[[七]] {{phoneme|*tsʰik}}｝に用いる。
+{{字源}}
+* [[上古音]]は布之道『[http://www.kaom.net/sgy_bzd.php 広韻形声考]』による。
+<references group="字源" />
+===意義===
+#(数字) '''[[7]]'''
+[[Category:数字|7]]
+[[Category:漢数字]]
+
+=={{L|ja}}==
+{{wikipedia|7}}
+[[Category:{{ja}}]]
+{{ja-kanji|常用=シチ,なな,なな-つ,なの|施策=教育:1|呉音=シチ|漢音=シツ|訓=なな,なな-つ,なの}}
+==={{prov}}===
+{{rel-top3}}
+*{{ふりがな|五位七十五法|ごいしちじゅうごほう|yomilink=no}}
+*{{ふりがな|七回忌|しちかいき|yomi2=ななかいき|yomilink=no}}
+*{{ふりがな|七月|しちがつ|yomilink=no}}
+*{{ふりがな|七角形|しちかっけい|yomi2=ななかっけい|yomilink=no}}
+*{{ふりがな|七賢|しちけん|yomilink=no}}
+*{{ふりがな|七絃琴|しちげんきん|yomilink=no}}
+*{{ふりがな|七五三|しちごさん|yomilink=no}}
+*{{ふりがな|七五調|しちごちょう|yomilink=no}}
+*{{ふりがな|七言絶句|しちごんぜっく|yomilink=no}}
+*{{ふりがな|七言律詩|しちごんりっし|yomilink=no}}
+*{{ふりがな|七三|しちさん|yomilink=no}}
+*{{ふりがな|七七日|しちしちにち|yomi2=なななぬか|yomilink=no}}
+*{{ふりがな|七生|しちしょう|yomilink=no}}
+*{{ふりがな|七星|しちせい|yomilink=no}}
+*{{ふりがな|七道|しちどう|yomilink=no}}
+*{{ふりがな|七堂伽藍|しちどうがらん|yomilink=no}}
+*{{ふりがな|七難|しちなん|yomilink=no}}
+*{{ふりがな|七福神|しちふくじん|yomilink=no}}
+*{{ふりがな|七辺形|しちへんけい|yomilink=no}}
+*{{ふりがな|七方出|しちほうで|yomilink=no}}
+*{{ふりがな|七味|しちみ|yomilink=no}}
+*{{ふりがな|七面体|しちめんたい|yomilink=no}}
+*{{ふりがな|七面鳥|しちめんちょう|yomilink=no}}
+*{{ふりがな|七面倒|しちめんどう|yomilink=no}}
+*{{ふりがな|七夜|しちや|yomilink=no}}
+*{{ふりがな|七曜|しちよう|yomilink=no}}
+*{{ふりがな|七厘|しちりん|yomilink=no}}
+*{{ふりがな|七輪|しちりん|yomilink=no}}
+*{{ふりがな|七宝|しっぽう|yomilink=no}}
+*{{ふりがな|七夕|たなばた|yomilink=no}}
+*{{ふりがな|七重|ななえ|yomilink=no}}
+*{{ふりがな|七色|なないろ|yomilink=no}}
+*{{ふりがな|七竈|ななかまど|yomilink=no}}
+*{{ふりがな|七草|ななくさ|yomilink=no}}
+*{{ふりがな|七種競技|ななしゅきょうぎ|yomilink=no}}
+*{{ふりがな|七光|ななひかり|yomilink=no}}
+*{{ふりがな|七不思議|ななふしぎ|yomilink=no}}
+{{rel-bottom}}
+==={{rel}}===
+*[[七つ]]
+*[[七曲がり]]
+*[[七週の祭]]
+*[[七珍万宝]]
+*[[七顛八起]], [[七転八起]]
+*[[七転八倒]], [[七顛八倒]]
+*[[七並べ]]
+==={{noun}}===
+[[Category:{{ja}}_{{noun}}|なな]]
+[[Category:{{ja}}_数詞|なな]]
+'''[[七]]'''（[[なな]]、[[しち]]、方言:[[ひち]]）
+# [[7]]。[[六]]より[[一]]多い数。助数詞が続く場合や小数部では一般に[[なな]]と読む。[[しち]]と読む場合も[[一]]や[[八]]と異なり[[促音便]]にならない。[[日]]の場合は別の語の[[なのか]]になる。[[セブン]]。
+#* {{ふりがな|七個|ななこ|yomilink=n}}。
+#* {{ふりがな|七匹|ななひき|yomilink=n}}。
+#* {{ふりがな|七人|ななにん|yomi2=しちにん|yomilink=n}}。
+#* {{ふりがな|七日|なのか}}。
+===={{trans}}====
+{{trans-top}}
+*{{T|is}}: {{t|is|sjö}}
+*{{T|ay}}: {{t|ay|paqalqu}}
+*{{T|ga}}: {{t|ga|seacht}}
+*{{T|az}}: {{t|az|yeddi}}
+*{{T|ar}}: {{t|ar|سَبْعَة}}
+*{{T|arc}}:
+*シリア文字: [[ܫܒܥܐ]] (shabʕā, shabʕo) {{m}}, [[ܫܒܥ]] (shbaʕ) {{f}}
+*ヘブル文字: [[שבעא]] (shabʕā, shabʕo) {{m}}, [[שבע]] (shbaʕ) {{f}}
+*{{T|sq}}: {{t|sq|shtatë}}
+*{{T|it}}: {{t|it|sette}}
+*{{T|io}}: {{t|io|sep}}
+*{{T|ia}}: {{t|ia|septe}}
+*{{T|id}}: {{t|id|tujuh}}
+*{{T|oaa}}: {{t|oaa|нада}}
+*{{T|cy}}: {{t|cy|saith}}
+*{{T|vot}}: {{t|vot|seitsee}} / {{t|vot|сеицее}}
+*{{T|vo}}: {{t|vo|vel}}
+*{{T|uk}}: {{t|uk|сім}}, {{t|uk|семеро}} (集合)
+*{{T|en}}: {{t|en|seven}}
+*:{{T|ang}}: {{t|ang|seofon}}
+*{{T|eo}}: {{t|eo|sep}}
+*{{T|et}}: {{t|et|seitse}}
+*{{T|myv}}: {{t|myv|сисем}}
+*{{T|oc}}: {{t|oc|sèt}}
+*{{T|nl}}: {{t|nl|zeven}}
+*{{T|or}}: {{t|or|ସାତ}}
+*{{T|ca}}: {{t|ca|set}}
+*{{T|krl}}: {{t|krl|seiččemän}}
+*{{T|el}}: {{t|el|επτά}}
+*{{T|gn}}: {{t|gn|pokõi}}
+*{{T|km}}: {{t|km|ប្រាំពីរ|tr=pram pī}}
+*{{T|ka}}: {{t|ka|შვიდი}}
+*{{T|ku}}: [[heft]],[[حه‌وت]]
+*{{T|qu}}: {{t|qu|qanchis}}
+*{{T|got}}: {{t|got|𐍃𐌹𐌱𐌿𐌽}}
+*{{T|kw}}: {{t|kw|seyth}}
+*{{T|kv}}: {{t|kv|сізым}}
+*{{T|co}}: {{t|co|setti}}
+*{{T|sa}}: {{t|sa|सप्तन्}} (saptán), {{t|sa|सप्त}}
+*{{T|jv}}: {{t|jv|pitu}}
+*{{T|si}}: {{t|si|හත}}
+*{{T|sv}}: {{t|sv|sju}}
+*{{T|gd}}: {{t|gd|seachd}}
+*{{T|es}}: {{t|es|siete}}
+*{{T|sk}}: {{t|sk|sedem}}
+*{{T|sl}}: {{t|sl|sedem}}
+*{{T|sh}}:
+**キリル文字: {{t|sh|седам}}
+**ラテン文字: {{t|sh|sedam}}
+*{{T|th}}: {{t|th|เจ็ด}}
+*{{T|tl}}: {{t|tl|pito}}
+*{{T|cs}}: {{t|cs|sedm}}
+*{{T|chr}}: {{t|chr|ᎦᎵᏉᎩ}}
+*{{T|zh}}: [[七]] (qī)
+*{{T|ko}}: {{t|ko|일곱}}, {{t|ko|칠}}
+*{{T|dv}}: {{t|dv|ހަތެއް}}
+*{{T|te}}: {{t|te|ఏడు}}
+*{{T|da}}: {{t|da|syv}}
+*{{T|de}}: {{t|de|sieben}}
+*{{T|tpi}}: {{t|tpi|sevenpela}}
+*{{T|tr}}: {{t|tr|yedi}}
+*{{T|na}}: {{t|na|aeiu}}, {{t|na|aeu}}
+*{{T|gld}}: {{t|gld|нада̄н}}
+*{{T|nah}}: {{t|nah|chicome}}
+*{{T|fy}}: {{t|fy|sân}}
+*{{T|no}}: {{t|no|sju}}, {{t|no|syv}}
+*{{T|eu}}: {{t|eu|zazpi}}
+*{{T|hu}}: {{t|hu|hét}}
+*{{T|pa}}: {{t|pa|ਸੱਤ}}
+*{{T|hi}}: {{t|hi|सात}}
+*{{T|fi}}: {{t|fi|seitsemän}}
+*{{T|fo}}: {{t|fo|sjey}}
+*{{T|fr}}: {{t|fr|sept}}
+*{{T|bg}}: {{t|br|седем}}
+*{{T|br}}: {{t|br|seizh}}
+*{{T|vi}}: {{t|vi|bảy}}
+*{{T|he}}: {{t|he|שֶׁבַע|tr=sheva|f}} (数える時), {{t|he|שִׁבְעָה|tr=shiv'a|m}}
+*{{T|fa}}: {{t|fa|هَفت|tr=hæft}}
+*{{T|pl}}: {{t|pl|siedem}}
+*{{T|pt}}: {{t|pt|sete}}
+*{{T|mi}}: {{t|mi|whitu}}
+*{{T|mg}}: {{t|mg|fito}}
+*{{T|chm}}: {{t|chm|шымыт}}
+*{{T|mt}}: {{t|mt|sebgħa}}
+*{{T|mnc}}: {{MongolUnicode|[[ᠨᠠᡩᠠᠨ]]}} ([[nadan]])
+*{{T|gv}}: {{t|gv|shiaght}}
+*{{T|la}}: {{t|la|septem}}
+*{{T|lv}}: {{t|lv|septiņi|m}}, {{t|lv|septiņas|f}}
+*{{T|ro}}: {{t|ro|şapte}}
+*{{T|ru}}: {{t|ru|семь}}
+{{trans-bottom}}
+
+=={{L|zh}}==
+==={{etym}}===
+{{etyl|sit-pro|zh|sort=qi1}} {{m|sit-pro|*s-ni-s}}
+{{zh-cat|qi1|数詞|hsk=甲|hsk2=1|常=1}}
+==={{pron}}===
+{{zh-han
+|m=qī,shǎng
+|m-s=qi2
+|m-x=qǐ
+|m-nj=ci̊q
+|dg=чи
+|c=cat1
+|c-dg=cak7
+|c-t=tit2
+|c-yj=cat3
+|g=qit6
+|pfs=chhit
+|hrs=cid
+|gd=qid5
+|j=qieh4
+|mb=chĭ
+|md=chék
+|mn=ml,jj,na,yc,ct,ly,tw,sg,pn,kl,ph:chhit/ha:chhet/zp:sit/qz:chhiak
+|mn-t=cig4/cêg4
+|mn-l=qieg4
+|px=pt,xy:cih6
+|sp=cat2
+|w=7chiq
+|w-j=7tshiq
+|x=ci6
+|x-l=ci2
+|x-h=qi6
+|mc=y
+|oc=y
+}}
+==={{numeral}}===
+qī
+#[[7]]。
+
+=={{L|ko}}==
+{{ko-han|칠|eumhun=[[일곱]] 칠|pos=numeral}}
+==={{numeral}}===
+#[[7]]。
+==={{prov}}===
+* {{l|ko|칠월}} &lt;[[七月]]&gt;
+
+=={{L|vi}}==
+{{vi-han|thất}}
+
+=={{コード}}==
+{{文字コード|jis=1-28-23|mj={{mjmoji|006297}}|gb=C6DF|cns=1-4424|big5=A443|ksx=1001-7652}}
+{{検字|倉頡=JU|四角=4071.0}}
+{{字典|hdz=10003.030|大字源=2|大漢語林=4|康煕=0075.070|新大字典=4|新潮漢字=4|諸橋=6}}
+[[カテゴリ:IICORE]]

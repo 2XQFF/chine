@@ -1,0 +1,273 @@
+<ref></ref>{{kana-DEFAULTSORT|きゅう}}
+==漢字==
+{{kanji|乙|1}}
+{{kanji variants|玖=[[大字]]|𠔀|𢌬|𣲄}}
+*筆順 : [[image:{{PAGENAME}}-bw.png|200px]]
+===字源===
+* [[象形文字|象形]]。肘を強調した腕を象る。「[[ひじ]]」を意味する[[漢語]]｛[[肘]] {{phoneme|*truʔ}}｝を表す字。[[仮借]]して「[[ここのつ]]」を意味する漢語｛[[九]] {{phoneme|*kuʔ}}｝に用いる。<ref group="字源">丁山 「数名古誼」 『歴史語言研究所集刊』第1本第1分 中央研究院歴史語言研究所、1928年、94頁。<br>明義士 「柏根氏旧蔵甲骨文字考釈」 『斉大季刊』第7期 1935年、51頁。<br>李孝定編述 『甲骨文字集釈』 中央研究院歴史語言研究所、1970年、4187-4190頁。<br>張世超、孫凌安、金国泰、馬如森 『金文形義通解』 中文出版社、1996年、3385-3387頁。<br>William H. Baxter and Laurent Sagart, ''Old Chinese - A New Reconstruction'', Oxford University Press, 2014, p. 155.<br>季旭昇撰 『説文新証』 芸文印書館、2014年、952-953頁。<br>葛亮 「古字新識（六）——説数字（中）」 『書与画』2020年6期、61頁。</ref>
+** かつて「一からの数字を最後にまとめる意味」<ref group="字源">藤堂</ref>「竜を象った文字」<ref group="字源">白川</ref>などの解釈があったが、こうした説は資料と一致していない記述が含まれていたり根拠のない憶測に基づいていたりする誤った分析である。
+{{字源}}
+* [[上古音]]は布之道『[http://www.kaom.net/sgy_bzd.php 広韻形声考]』による。
+<references group="字源" />
+===関連字===
+{| class="wikitable"
+|+ 「[[九]]」を音符とする[[形声文字]] （諧声域＝*KU）
+|-
+! !! !! 見母 !! 溪母 !! 匣母 !! 影母 !! 曉母
+
+|-
+! rowspan="4" | 一等 || 平声 豪韻
+|  || [[尻]][[訄]] ||  ||  ||
+|-
+! 上声 皓韻
+|  ||  ||  ||  ||
+|-
+! 去声 號韻
+|  ||  ||  || （候韻：[[𠹝]]） ||
+|-
+! 入声 沃韻
+|  ||  || - ||  ||
+|-
+! !! !! 見母 !! 溪母 !! 匣母 !! 影母 !! 曉母
+|-
+! rowspan="4" | 二等 || 平声 肴韻
+|  ||  || [[猇]] ||  || [[虓]][[猇]]
+|-
+! 上声 巧韻
+|  ||  ||  ||  || -
+|-
+! 去声 效韻
+|  ||  ||  ||  ||
+|-
+! 入声 覺韻
+|  ||  ||  ||  ||
+|-
+! !! !! 見母 !! 溪母 !! 群母 !! 影母 !! 曉母
+|-
+! rowspan="4" | 三等A || 平声 尤韻
+| [[鳩]][[勼]] || [[訄]] || [[仇]][[叴]][[厹]][[頄]][[艽]][[鼽]][[朹]][[㭝]][[馗]][[䊵]]<br>[[䜪]][[扏]][[犰]][[訅]][[釚]][[肍]][[𦬖]][[訄]] ||  ||
+|-
+! 上声 有韻
+| [[九]] ||  ||  ||  ||
+|-
+! 去声 宥韻
+| [[究]]<br>（來母：[[㙀]]） ||  ||  || - ||
+|-
+! 入声 屋韻
+| [[𨸰]][[㘲]][[𩬜]][[𣐊]][[𧿻]][[泦]] ||  ||  ||  || （燭韻：[[旭]]）
+|-
+! !! !! 見母 !! 溪母 !! 群母 !! 影母 !! 曉母
+|-
+! rowspan="4" | 三等B || 平声 脂韻
+|  ||  ||  ||  ||
+|-
+! 上声 旨韻
+| [[軌]][[朹]][[𣷾]][[宄]][[匭]][[氿]][[𧗝]] ||  ||  ||  ||
+|-
+! 去声 至韻
+|  ||  ||  || - ||
+|-
+! 入声 屋韻
+|  ||  ||  ||  ||
+|}
+===字義===
+#（数字）'''[[9]]'''。[[三]]の二乗。
+{{漢字}}
+[[Category:数字|9]]
+[[Category:漢数字]]
+
+=={{L|ja}}==
+{{Wikipedia|9}}
+[[Category:{{ja}}]]
+{{ja-kanji|常用=キュウ,ク,ここの,ここの-つ|施策=教育:1|呉音=ク|漢音=キュウ<キウ|唐音=キュウ<キウ|慣用音=クウ;[[:w:兵隊シナ語|兵隊シナ語]]|訓=ここの,ここの-つ|名乗=いちじく,いちのく,ひさし|古訓=あつ-まる,きよ-し,ここのところ}}
+==={{prov}}===
+{{rel-top5}}
+*[[九官鳥]]
+*[[九牛一毛]]
+*[[九九]], [[九々]]
+*[[九月]]
+*[[九死]]
+*[[九州]]
+*[[九重]]
+*[[九寸五分]]
+*[[九星]]
+*[[九折]]
+*[[九泉]]
+*[[九地]]
+*[[九天]]
+*[[九拝]]
+*[[九分]]
+*[[九輪]]
+*[[九六]]
+{{rel-bottom}}
+==={{noun}}===
+[[Category:{{ja}}_{{noun}}]]
+[[Category:{{ja}}_基数]]
+'''九'''（[[きゅう]]、[[く]]）
+# [[9]]。[[三]]の二乗。[[八]]の次の数。助数詞が続く場合や小数部では[[きゅう]]と読むことが多いが、「[[く]]」と読む例外もある。[[ナイン]]。
+#* {{ふりがな|九個|きゅうこ|yomilink=n}}。
+#* {{ふりがな|九匹|きゅうひき|yomilink=n}}。
+#* {{ふりがな|九人|きゅうにん、くにん|yomilink=n}}。
+#* {{ふりがな|九段|きゅうだん、くだん|yomilink=n}}。
+#* {{ふりがな|九年|きゅうねん、くねん|yomilink=n}}。
+#* {{ふりがな|九時|くじ|yomilink=n}}。
+#* {{ふりがな|九月|くがつ|yomilink=n}}。
+#* {{ふりがな|九分九厘|くぶくりん|yomilink=n}}。
+===={{trans}}====
+{{trans-top|数詞}}
+*{{T|is}}: {{t|is|níu}}
+*{{T|ga}}: {{t|ga|naoi}}
+*{{T|as}}: [[ন]] (na)
+*{{T|ar}}: {{t|ar|تسعة|tr=tísʕa}}
+*{{T|sq}}: {{t|sq|nëntë}}
+*{{T|it}}: {{t|it|nove}}
+*{{T|io}}: {{t|io|non}}
+*{{T|ia}}: {{t|ia|nove}}
+*{{T|id}}: {{t|id|sembilan}}
+*{{T|oaa}}: {{t|oaa|хујӯ}}
+*{{T|cy}}: {{t|cy|naw}}
+*{{T|vot}}: [[ühesää]] / [[үхесээ]]
+*{{T|vo}}: {{t|vo|zül}}
+*{{T|en}}: {{t|en|nine}}
+*:{{T|ang}}: {{t|ang|nigon}}
+*{{T|et}}: {{t|et|üheksa}}
+*{{T|eo}}: {{t|eo|naŭ}}
+*{{T|myv}}: {{t|myv|вейксе}}
+*{{T|oc}}: {{t|oc|nòu}}
+*{{T|nl}}: {{t|nl|negen}}
+*{{T|or}}: [[ନଅ]] (na'a)
+*{{T|ca}}: {{t|ca|nou}}
+*{{T|krl}}: [[yhekšän]]
+*{{T|el}}: {{t|el|εννέα}}, {{t|el|εννιά}}
+*:{{T|grc}}: {{t|grc|ἐννέα}}
+*{{T|gn}}: [[porundy]]
+*{{T|fkv}}:[[yhðeksen]]
+*{{T|gu}}: {{t|gu|નવ}}
+*{{T|ka}}: {{t|ka|ცხრა}}
+*{{T|ku}}:
+*:{{T|kmr}}: {{t|kmr|neh}}
+*:{{T|ckv}}: [[no]]
+*{{T|qu}}: {{t|qu|jisq'un}}
+*{{T|got}}: {{t|got|𐌽𐌹𐌿𐌽}}
+*{{T|kw}}: {{t|kw|naw}}
+*{{T|kv}}: [[ӧкмыс]] (ökmys)
+*{{T|co}}: {{t|co|novi}}
+*{{T|sc}}: {{t|sc|noi}}
+*{{T|sa}}: {{t|sa|नवम्}}
+*{{T|sv}}: {{t|sv|nio}}
+*{{T|gd}}: {{t|gd|naoi}}
+*{{T|es}}: {{t|es|nueve}}
+*{{T|sk}}: {{t|sk|deväť}}
+*{{T|sl}}: {{t|sl|devet}}
+*{{T|sw}}: {{t|sw|tisa}}
+*{{T|sh}}:
+*:キリル文字: {{t|sh|де̏вет}}
+*:ラテン文字: {{t|sh|dȅvet}}
+*{{T|th}}: {{t|th|เก้า}}
+*{{T|tl}}: {{t|tl|siyam}}
+*{{T|chr}}: {{t|chr|ᏐᏁᎳ}}
+*{{T|zh}}: {{t|zh|九}} (ピンイン jiǔ, 広東語 gau2)
+*{{T|ko}}: {{t|ko|아홉}}, {{t|ko|구}}
+*{{T|dv}}: {{t|dv|ނުވައެއް}}
+*{{T|te}}: {{t|te|తొనిమిది}}, {{t|te|తొమ్మిది}}
+*{{T|da}}: {{t|da|ni}}
+*{{T|de}}: {{t|de|neun}}
+*{{T|tok}}: {{t|tok|[[luka]] [[tu]] tu}}
+*{{T|tpi}}: {{t|tpi|nainpela}}
+*{{T|tr}}: {{t|tr|dokuz}}
+*{{T|na}}: {{t|na|ado}}
+*{{T|gld}}: {{t|gld|хуюн}}
+*{{T|nah}}: {{t|nah|chicuei}}
+*{{T|fy}}: {{t|fy|njoggen}}
+*{{T|no}}: {{t|no|ni}}
+*{{T|eu}}: {{t|eu|bederatzi}}
+*{{T|haw}}: [[iwa]]
+*{{T|hu}}: {{t|hu|kilenc}}
+*{{T|pa}}: [[ਨੌਂ]] ({{Unicode|nauṁ}})
+*{{T|hi}}: {{t|hi|नौ}}
+*{{T|fj}}: {{t|fj|ciwa}}
+*{{T|fi}}: {{t|fi|yhdeksän}}
+*{{T|fr}}: {{t|fr|neuf}}
+*{{T|br}}: {{t|br|nav}}
+*{{T|vi}}: {{t|vi|chín}}
+*{{T|he}}: {{t|he|תֵּשַׁע|tr=téiš|f}} ''(数える時)'', {{t|he|תִּשְׁעָה|tr=tish'a|m}}
+*{{T|fa}}: {{t|fa|نُه|tr=noh}}
+*{{T|bn}}: [[নয]] (nay)
+*{{T|pl}}: {{t|pl|dziewięć}}
+*{{T|pt}}: {{t|pt|nove}}
+*{{T|mi}}: [[iwa]]
+*{{T|chm}}: [[индеше]] (indeše)
+*{{T|mnc}}: {{MongolUnicode|[[ᡠᠶᡠᠨ]]}} (uyun)
+*{{T|gv}}: [[nuy]]
+*{{T|la}}: {{t|la|novem}}
+*{{T|lv}}: {{t|lv|deviņi|m}}, {{t|lv|deviņas|f}}
+*{{T|ro}}: {{t|ro|nouă}}
+*{{T|ru}}: {{t|ru|девять}}
+*{{T|wa}}: {{t|wa|ût}}
+{{trans-bottom}}
+
+=={{L|zh}}==
+==={{etym}}===
+*{{etyl|sit-pro|zh|sort=jiu3}} {{m|sit-pro|*d/s-kəw|t=9}}より。
+** チベット語 [[དགུ]] 、ビルマ語 [[ကိုး]] 、西夏語 [[𗢭]] 、四土ギャロン語 ''kəngû'' 、ジンポー語 ''jahkù'' 、ガロ語 ''-sku'' 等と同根。<ref group="語源">Paul Benedict, ''Sino-Tibetan: a Conspectus'', Cambridge University Press, p. 162.<br>Weldon South Coblin, ''A Sinologists Handlist of Sino-Tibetan Lexical Comparisons'', Steyler Verlag, 1986, p. 113.<br>龔煌城 「The System of Finals in Proto-Sino-Tibetan」 『漢蔵語研究論文集』 北京大学出版社、2002年、83、89、117頁。<br>James Matisoff, ''Handbook of Proto-Tibeto-Burman'', University of California Press, 2003, p. 199.<br>Axel Schuessler, ''ABC Etymological Dictionary of old chinese'', University of Hawaii Press, 2006, p. 320.<br>Shuya Zhang, Guillaume Jacques, and Yunfan Lai, A study of cognates between Gyalrong languages and Old Chinese, ''Journal of Language Relationship'', 17, 2019, p. 81.</ref>
+<references group="語源" />
+{{zh-cat|jiu3|数詞|基数|形容詞|hsk=甲|hsk2=1|常=1}}
+==={{pron}}===
+{{zh-han
+|m=jiǔ,xiǎng,xiàng
+|m-s=jiu3
+|m-x=jiù
+|m-nj=jiǔ
+|dg=җю
+|c=gau2
+|c-dg=gaau2
+|c-t=giu2
+|c-yj=gieu2
+|g=jiu3
+|pfs=kiú
+|hrs=giuˊ
+|gd=giu3
+|j=jiou2
+|mb=giǔ
+|md=gāu/giū
+|mn=káu/kiú
+|mn-t=gao2/giu2
+|mn-l=gao2
+|px=pt,xy:gao3/pt,xy:giu3
+|sp=gau2
+|w=5cieu
+|w-j=3cieu
+|x=jiou3
+|x-l=jiou3
+|x-h=jiu3
+|mc=y
+|oc=y
+}}
+==={{numeral}}===
+jiǔ
+#[[9]]。
+==={{adjective}}===
+jiǔ
+#[[くりかえす|くりかえし]]、[[たびたび]]、[[多数]]の。
+#*[[九死一生|'''九'''死一生]]
+#*[[九牛一毛|'''九'''牛一毛]]
+==={{prov}}===
+* {{l|zh|九夏}}
+* {{l|zh|九一八事变}} ([[九一八事变|九一八事變]])
+
+=={{L|ko}}==
+{{ko-han|구|eumhun=[[아홉]] 구|pos=noun|pos2=numeral|cat2=基数}}
+==={{noun}}・数詞===
+# [[9]]。
+==={{prov}}===
+* {{l|ko|구구단}} &lt;[[九九段]]&gt;
+* {{l|ko|구구법}} &lt;[[九九法]]&gt;
+* {{l|ko|구구표}} &lt;[[九九表]]&gt;
+
+=={{L|vi}}==
+{{vi-han|cửu}}
+
+=={{コード}}==
+{{文字コード|jis=1-22-69|mj={{mjmoji|006404}}|gb=BEC5|cns=1-4426|big5=A445|ksx=1001-4E7A}}
+{{検字|倉頡=KN|四角=4001.7}}
+{{字典|dj=0168.020|hdz=10048.050|大字源=66|大漢語林=90|康煕=0083.190|新大字典=169|新潮漢字=107|諸橋=167}}

@@ -1,0 +1,254 @@
+{{kana-DEFAULTSORT|ご}}
+{{commonscat}}
+==漢字==
+{{kanji|二|2}}
+{{kanji variants|伍=[[大字]]|㐅=[[古字]]|𫝀=[[俗字]]|㠪|𠄡=[[古文]]}}
+*筆順 : [[File:{{PAGENAME}}-bw.png|200px]]
+===字源===
+*縄を巻いて収める器具を象る。「なわまき」を意味する[[漢語]]｛[[䇘]] {{phoneme|*ɡ(ɫ)ˤah}}｝を表す字。<ref name="a" group="字源">方稚松「釋甲骨文中的「互」及相關問題」『中央研究院歷史語言研究所集刊』第91本第1分、中央研究院歴史語言研究所、2020年、1-31頁。</ref>[[仮借]]して「[[いつつ]]」を意味する漢語｛[[五]] {{phoneme|*ŋˤaʔ}}｝に用いる。
+**一説に[[原字]]は「[[㐅]]」で、二本の線を交差させたさまを象る。「[[交錯]]する」を意味する[[漢語]]｛[[互]] {{phoneme|*ɡ(ɫ)ˤah}}｝を表す字。<ref group="字源">張世超、孫凌安、金国泰、馬如森 『金文形義通解』 中文出版社、1996年、3378-3381頁。<br>季旭昇撰 『説文新証』 芸文印書館、2014年、950-951頁。<br>林志強等評注 『《文源》評注』 中国社会科学出版社、2017年、119頁。</ref>[[羨符]]「二」を加えて「五」の字形となり、｛[[䇘]]｝の表意字と字形が合流したとする説もある。<ref name="a" group="字源" />
+{{字源}}
+====参考文献====
+* [[上古音]]は布之道『[http://www.kaom.net/sgy_bzd.php 広韻形声考]』による。
+<references group="字源" />
+===意義===
+#（[[数字]]） '''[[5]]'''、[[ファイブ]]。
+[[Category:数字|5]]
+[[Category:漢数字]]
+
+=={{L|ja}}==
+{{Wikipedia|5}}
+[[Category:{{ja}}]]
+{{ja-kanji|常用=ゴ,いつ,いつ-つ|施策=教育:1|呉音=ゴ|漢音=ゴ|唐音=ウウ|訓=いつ,いつ-つ,い}}
+==={{noun}}===
+[[Category:{{ja}}_{{noun}}]]
+[[Category:{{ja}}_{{numeral}}]]
+'''[[五]]'''（[[ご]]）
+#{{context|基数|lang=ja}}[[5]]。[[四]]より[[一]]多い数。
+#* {{ふりがな|五個|ごこ|yomilink=n}}。
+#* {{ふりがな|五匹|ごひき|yomilink=n}}。
+#* {{ふりがな|五人|ごにん|yomilink=n}}。
+===={{trans}}====
+{{trans-top}}
+*{{T|is}}: [[fimm]]
+*{{T|ga}}: [[cúig]]
+*{{T|ar}}: {{ARchar|[[خمسة]]}} (χámsa)
+*{{T|arc}}:
+*:シリア文字: [[ܚܡܫܐ]] (khamshā, khamsho) {{m}}, [[ܚܡܫ]] (khamesh) {{f}}
+*:ヘブル文字: [[חמשא]] (khamshā, khamsho) {{m}}, [[חמש]] (khamesh) {{f}}
+*{{T|sq}}: [[pesë]]
+*{{T|hy}}: [[հինգ]] (hink)
+*{{T|it}}: [[cinque]]
+*{{T|yi}}: [[פֿינף]] (finf)
+*{{T|io}}: [[kin]]
+*{{T|ia}}: [[cinque]]
+*{{T|id}}: {{t|id|lima}}
+*{{T|oaa}}: {{t|oaa|тунда}}
+*{{T|cy}}: [[pump]]
+*{{T|vot}}: [[viiz]] / [[вииз]]
+*{{T|uk}}: {{t|uk|п'ять}}
+*{{T|en}}: {{t|en|five}}
+*:{{T|ang}}: [[fif]]
+*{{T|et}}: [[viis]]
+*{{T|eo}}: [[kvin]]
+*{{T|myv}}: [[вете]] (vete)
+*{{T|oc}}: [[cinc]]
+*{{T|nl}}: [[vijf]]
+*{{T|or}}: [[ପାଞ୍ଚ]] (pāñch)
+*{{T|ca}}: [[cinc]]
+*{{T|krl}}: [[viisi]]
+*{{T|el}}: [[πέντε]] (''古典'' pénte; ''現代'' pénde)
+*{{T|gn}}: [[po#Guarani|po]]
+*{{T|km}}: {{KMchar|[[ប្រាំ]]}} (pram)
+*{{T|ka}}: [[ხუთი]] (χut‘i)
+*{{T|ku}}: [[pênc]], {{KUchar|[[پێنج]]}}
+*{{T|got}}: {{t|got|𐍆𐌹𐌼𐍆}}
+*{{T|kw}}: [[pymp]]
+*{{T|kv}}: [[вит]] (vit)
+*{{T|co}}: [[cinqui]]
+*{{T|sa}}: [[पञ्चन्]] (pañcan), [[पंच]] (paca)
+*{{T|scn}}: [[cincu]]
+*{{T|sd}}: {{SDchar|[[پَنجَ]]}} (panja)
+*{{T|si}}: {{t|si|පහ}}
+*{{T|sv}}: [[fem]]
+*{{T|gd}}: [[còig]]
+*{{T|es}}: [[cinco]]
+*{{T|sk}}: [[päť]]
+*{{T|sl}}: [[pet]]
+*{{T|sh}}:
+*:キリル文字: {{t|sh|пет}}
+*:ラテン文字: {{t|sh|pet}}
+*{{T|th}}: {{THchar|[[ห้า]]}} (hâa)
+*{{T|tl}}: {{t|tl|lima}}
+*{{T|cs}}: [[pět]]
+*{{T|chr}}: [[ᎯᏍᎩ]] (hisgi)
+*{{T|zh}}: [[五]] (wǔ)
+*{{T|ko}}: {{t|ko|다섯}}, {{t|ko|오}}
+*{{T|dv}}: [[ފަހެއް]] (faheh)
+*{{T|te}}: [[ఐదు]] (aidu)
+*{{T|da}}: [[fem]]
+*{{T|de}}: [[fünf]]
+*{{T|ng}}: {{Unicode|[[enumɔ]]}}
+*{{T|tok}}: [[luka]]
+*{{T|tpi}}: [[faipela]]
+*{{T|tr}}: [[beş]]
+*{{T|gld}}: [[тойнга]]
+*{{T|nap}}: [[cìnche]]
+*{{T|nah}}: [[makwilli]]
+*{{T|fy}}: [[fiif]]
+*{{T|no}}: [[fem]]
+*{{T|eu}}: [[bost]]
+*{{T|hu}}: [[öt]]
+*{{T|pa}}: [[ਪੰਜ]] (pañj)
+*{{T|hi}}: [[पाँच]] (pāca)
+*{{T|fi}}: [[viisi]]
+*{{T|fr}}: [[cinq]]
+*{{T|bg}}: [[пет]]
+*{{T|br}}: [[pemp]]
+*{{T|he}}: [[חמש|חָמֵשׁ]] (khamésh) {{f}} ''(数える時)'', [[חמשה|חֲמִשָּׁה]] {{m}} (khamisha)
+*{{T|be}}: {{t|be|пяць}}
+*{{T|fa}}: {{FAchar|[[پنج|پَنج]]}} (pænj)
+*{{T|pl}}: [[pięć]]
+*{{nai}}: {{Unicode|[[táɬɬàapi]]}}
+*{{T|pt}}: [[cinco]]
+*{{T|mr}}: [[पाच]] (pāch)
+*{{T|chm}}: [[визыт]] (vizyt)
+*{{T|mt}}: [[ħamsa]]
+*{{T|ms}}: [[lima]]
+*{{T|mnc}}: {{MongolUnicode|[[ᠰᡠᠨᠵᠠ]]}} ([[sunja]])
+*{{T|gv}}: [[queig]]
+*{{T|la}}: {{t|la|quīnque}}, ''不変化''
+*{{T|lv}}: [[pieci]] {{m}}, [[piecas]] {{f}}
+*{{T|lt}}: [[penki]] {{m}}, [[penkios]] {{f}}
+*{{T|ro}}: [[cinci]]
+*{{T|ru}}: {{t|ru|пять}}
+*{{T|rhg}}: {{tø|rhg|fañs}}
+*{{T|rom}}: [[pānj]]
+*{{T|wa}}: [[cénk]]
+{{trans-bottom}}
+
+===={{prov}}====
+{{top}}
+*{{ふりがな|五悪|ごあく|yomilink=n}}
+*{{ふりがな|五位|ごい|yomilink=n}}
+*{{ふりがな|五位七十五法|ごいしちじゅうごほう|yomilink=n}}
+*{{ふりがな|五位百法|ごいひゃっぽう|yomilink=n}}
+*{{ふりがな|五位鷺|ごいさぎ|yomilink=n}}
+*{{ふりがな|五蘊|ごうん|yomilink=n}}
+*{{ふりがな|五蘊盛苦|ごうんじょうく|yomilink=n}}
+*{{ふりがな|五音音階|ごおんおんかい|yomilink=n}}
+*{{ふりがな|五十歩百歩|ごじっぽひゃっぽ|yomilink=n}}
+*{{ふりがな|五戒|ごかい|yomilink=n}}
+*{{ふりがな|五月|ごがつ|yomi2=さつき|yomilink=n}}
+*{{ふりがな|五角形|ごかっけい|yomilink=n}}
+*{{ふりがな|五官|ごかん|yomilink=n}}
+*{{ふりがな|五感|ごかん|yomilink=n}}
+*{{ふりがな|五経|ごきょう|yomilink=n}}
+*{{ふりがな|五境|ごきょう|yomilink=n}}
+*{{ふりがな|五行|ごぎょう|yomilink=n}}
+*{{ふりがな|五桁|ごけた|yomilink=n}}
+*{{ふりがな|五更|ごこう|yomilink=n}}
+*{{ふりがな|五穀|ごこく|yomilink=n}}
+*{{ふりがな|五言絶句|ごごんぜっく|yomilink=n}}
+*{{ふりがな|五言律詩|ごごんりっし|yomilink=n}}
+*{{ふりがな|五根|ごこん|yomilink=n}}
+*{{ふりがな|五彩|ごさい|yomilink=n}}
+*{{ふりがな|五指|ごし|yomilink=n}}
+*{{ふりがな|五色|ごしき|yomilink=n}}
+*{{ふりがな|五識|ごしき|yomilink=n}}
+*{{ふりがな|五色|ごしき|yomilink=n}}
+*{{ふりがな|五重|ごじゅう|yomi2=いつえ|yomilink=n}}
+*{{ふりがな|五種競技|ごしゅきょうぎ|yomilink=n}}
+*{{ふりがな|五旬節|ごじゅんせつ|yomilink=n}}
+*{{ふりがな|五書|ごしょ|yomilink=n}}
+*{{ふりがな|五女|ごじょ|yomilink=n}}
+*{{ふりがな|五常|ごじょう|yomilink=n}}
+*{{ふりがな|五情|ごじょう|yomilink=n}}
+*{{ふりがな|五寸釘|ごすんくぎ|yomilink=n}}
+*{{ふりがな|五節|ごせち|yomilink=n}}
+*{{ふりがな|五線|ごせん|yomilink=n}}
+*{{ふりがな|五蔵|ごぞう|yomilink=n}}
+*{{ふりがな|五臓六腑|ごぞうろっぷ|yomilink=n}}
+*{{ふりがな|五体|ごたい|yomilink=n}}
+*{{ふりがな|五体満足|ごたいまんぞく|yomilink=n}}
+*{{ふりがな|五体投地|ごたいとうち|yomilink=n}}
+*{{ふりがな|五大陸|ごたいりく|yomilink=n}}
+*{{ふりがな|五大老|ごたいろう|yomilink=n}}
+*{{ふりがな|五段|ごだん|yomilink=n}}
+*{{ふりがな|五徳|ごとく|yomilink=n}}
+*{{ふりがな|五斗米|ごとべい|yomilink=n}}
+*{{ふりがな|五男|ごなん|yomilink=n}}
+*{{ふりがな|五人組|ごにんぐみ|yomilink=n}}
+*{{ふりがな|五人囃子|ごにんばやし|yomilink=n}}
+*{{ふりがな|五分|ごぶ|yomi2=ごふん|yomilink=n}}
+*{{ふりがな|五風十雨|ごふうじゅうう|yomilink=n}}
+*{{ふりがな|五奉行|ごぶぎょう|yomilink=n}}
+*{{ふりがな|五辺形|ごへんけい|yomilink=n}}
+*{{ふりがな|五芒星|ごぼうせい|yomilink=n}}
+*{{ふりがな|五面体|ごめんたい|yomilink=n}}
+*{{ふりがな|五目|ごもく|yomilink=n}}
+*{{ふりがな|五里霧中|ごりむちゅう|yomilink=n}}
+*{{ふりがな|五稜郭|ごりょうかく|yomilink=n}}
+*{{ふりがな|五稜堡|ごりょうほ|yomilink=n}}
+*{{ふりがな|五倫|ごりん|yomilink=n}}
+*{{ふりがな|五輪|ごりん|yomilink=n}}
+*{{ふりがな|三々五々|さんさんごご|yomilink=n}}
+*{{ふりがな|前五識|ぜんごしき|yomilink=n}}
+*{{ふりがな|五倍子|ふし|yomi2=ごばいし}}
+{{bottom}}
+=={{L|zh}}==
+{{zh-cat|wu3|数詞|基数|常=1|hsk=甲|hsk2=1}}
+==={{etym}}===
+*{{etyl|sit-pro|zh|sort=wu3}} {{m|sit-pro|*l-ŋaʔ|t=5}}<ref group="語源">Paul Benedict, ''Sino-Tibetan: a Conspectus'', Cambridge University Press, p. 31.<br>James Matisoff, ''Handbook of Proto-Tibeto-Burman'', University of California Press, 2003, pp. 130, 149, 162, 165, 166, 167, 170, 173, 251.<br>Axel Schuessler, ''ABC Etymological Dictionary of old chinese'', University of Hawaii Press, 2006, p. 519.</ref>。
+** チベット語 [[ལྔ]] 、ビルマ語 [[ငါး]] 、 西夏語 [[𗏁]] ''ŋwə¹'' 、レプチャ語 [[ᰑᰅᰫ]] ''fangú'' 等、ほぼ全ての姉妹言語に同根語が存在する。
+<references group="語源" />
+==={{pron}}===
+{{zh-han
+|m=wǔ
+|ma=y
+|m-s=wu3
+|m-x=wù
+|m-nj=wǔ
+|dg=ву
+|c=ng5
+|c-t=m2
+|c-yj=ung2
+|c-dg=m5
+|g=ng3/u3
+|pfs=ńg
+|hrs=ngˊ
+|gd=n3
+|ct=ng3
+|j=vu2
+|mb=ngù
+|md=ngô/ngū
+|mn=xm,zz,ct,zp,yc,tp,kh,tn,tc,hc,yl,sx,mg,km,pn,sg,kl:gō͘/qz,jj,na,ha,lk,ph:gǒ͘/ly:ňg/xm,zz,ct,tw,pn:ngó͘/qz,jj,na,ha,zp:gó͘/ly:gú
+|mn-t=ngou6/ngou2/u2
+|mn-l=ngeu6/ngu2
+|px=pt,jk,dh,xy,yy,ft:ngou5/nr:ngoo5/pt,jk,dh,xy,yy,ft:gou3/nr:goo3
+|sp=ngu5
+|w=6ng,1u,5u
+|w-j=3ng,3u
+|x=u3
+|x-l=u3
+|x-h=u3
+|mc=y
+|oc=y
+}}
+==={{numeral}}===
+#[[5]]。
+===={{prov}}====
+* {{l|zh|五味子}}
+
+=={{L|ko}}==
+{{ko-han|오|eumhun=[[다섯]] 오|pos=numeral}}
+==={{numeral}}===
+#[[5]]。
+
+=={{L|vi}}==
+{{vi-han|ngũ}}
+
+=={{コード}}==
+{{文字コード|jis=1-24-62|mj={{mjmoji|006444|056822}}|gb=CEE5|cns=1-446C|big5=A4AD|ksx=1001-6769}}
+{{検字|倉頡=MDM|四角=1010.7}}
+{{字典|dj=0178.040|hdz=10011.030|大字源=88|大漢語林=121|康煕=0086.110|新大字典=16/221|新潮漢字=141|諸橋=257}}

@@ -1,0 +1,83 @@
+{{kana-DEFAULTSORT|ゆう}}
+==漢字==
+{{kanji|口|2}}
+{{kanji variants|𠮢|𫳌=[[同字]]}}
+*筆順 :
+*: [[image:{{PAGENAME}}-jbw.png|350px]] (日本における筆順)
+*: [[image:{{PAGENAME}}-bw.png|350px]] (中国における筆順)
+===字源===
+* 原字は「[[又]]」（右手を象る[[象形文字]]）で、[[羨符]]（意味を持たない装飾的な筆画）の「口」を加えて「右」の字体となる<ref group="字源">張世超、孫凌安、金国泰、馬如森 『金文形義通解』 中文出版社、1996年、179-184頁。<br>季旭昇撰 『説文新証』 芸文印書館、2014年、198-199頁。<br>林志強等評注 『《文源》評注』 中国社会科学出版社、2017年、204頁。<br>徐超 『古漢字通解500例』 中華書局、2022年、244頁。</ref>。「[[みぎ]]」を意味する[[漢語]]｛[[右]] {{phoneme|*wəʔ}}｝を表す字。
+{{字源}}
+<references group="字源" />
+===字義===
+#[[みぎ]]
+#*（対義字）[[左]]
+#[[たすける]]、[[かばう]]。
+#*（同音同義字）[[佑]]
+
+=={{L|ja}}==
+[[Category:{{ja}}]]
+{{ja-kanji|常用=ウ,ユウ,みぎ|施策=教育:1|呉音=ウ|漢音=ユウ|訓=みぎ,たす-ける}}
+==={{noun}}===
+[[カテゴリ:{{ja}} {{noun}}|みき みぎ]]
+'''右'''（みぎ）
+#人が[[ひがし|東]]を向いたときに[[みなみ|南]]にあたる側。詳細は「'''[[みぎ]]'''」を参照。
+==={{prov}}===
+{{rel-top|{{prov}}}}
+*{{ruby|[[右往左往]]|うおうさおう}}
+*{{ruby|[[右折]]|うせつ}}
+*{{ruby|[[右大臣]]|うだいじん}}
+*{{ruby|[[右派]]|うは}}
+*{{ruby|[[右翼]]|うよく}}
+*{{ruby|[[右腕]]|うわん}}
+*{{ruby|[[左右]]|さゆう}}
+*{{ruby|[[右筆]]|ゆうひつ}}
+{{rel-bottom}}
+
+=={{L|zh}}==
+{{zh-cat|you4|名詞|方位詞|常=1|hsk=甲}}
+{{zh-han|
+|m=yòu
+|m-s=you4
+|dg=ю3
+|c=jau6
+|c-t=yiu5
+|g=iu5
+|pfs=yu
+|hrs=rhiu˖
+|gd=yu4
+|j=iou3
+|mb=iū
+|md=iêu
+|mn=iū
+|mn-t=iu6
+|w=6yeu
+|x=iou5/iou4
+|x-h=iu5
+|mc=1
+|oc=1,1
+}}
+==={{etym}}===
+{{etyl|sit-pro|zh|sort=you4}} {{m|sit-pro|*g-(j/r)a}}。チベット語 [[གཡས]] 、ビルマ語 [[ယာ]] 、ジンポー語 ''hkrá'' 等と同根<ref group="語源">Paul Benedict, ''Sino-Tibetan: a Conspectus'', Cambridge University Press, pp. 34, 187.<br>James Matisoff, ''Handbook of Proto-Tibeto-Burman'', University of California Press, 2003, p. 176.<br>Axel Schuessler, ''ABC Etymological Dictionary of old chinese'', University of Hawaii Press, 2006, pp. 581-582.</ref>。
+<references group="語源" />
+==={{noun}}===
+#（方向）[[みぎ]]。
+===方位詞===
+#（方向）[[みぎ]]（に、で）。
+==={{prov}}===
+*{{zh-l|右邊}}
+*{{zh-l|右面}}
+*{{zh-l|右頭}}
+*{{zh-l|右方}}
+*{{zh-l|右部}}
+
+=={{L|ko}}==
+{{ko-han|우|eumhun=[[오른쪽]] 우}}
+
+=={{L|vi}}==
+{{vi-han|hữu}}
+
+=={{コード}}==
+{{文字コード|jis=1-17-06|mj={{mjmoji|008043}}|gb=D3D2|cns=1-462D|big5=A56B|ksx=1001-6953}}
+{{検字|倉頡=KR|四角=4060.0}}
+{{字典|dj=0385.010|hdz=10569.010|大字源=1062|大漢語林=1254|康煕=0173.050|新大字典=1743|新潮漢字=1262|諸橋=3250}}

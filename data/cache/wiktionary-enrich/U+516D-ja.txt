@@ -1,0 +1,237 @@
+{{kana-DEFAULTSORT|ろく}}
+==漢字==
+{{kanji|八|2}}
+{{kanji variants|陸=[[大字]]}}
+*筆順 : [[image:{{PAGENAME}}-bw.png|200px]]
+===字源===
+* 不明。[[仮借]]して「[[むっつ]]」を意味する[[漢語]]｛[[六]] {{phoneme|*ruk}}｝に用いる。<ref group="字源">季旭昇撰 『説文新証』 芸文印書館、2014年、951頁。</ref>
+** 一説に、洞窟住居の[[象形文字|象形]]で｛[[窖]] {{phoneme|*krˤukh}}｝の[[表意字]]<ref group="字源">即里羽元 - 知乎《[https://www.zhihu.com/question/263670195 「广」字的意思和讀音（非「廣」之簡化）？]》</ref>。
+{{字源}}
+* [[上古音]]は布之道『[http://www.kaom.net/sgy_bzd.php 広韻形声考]』による。
+<references group="字源" />
+===意義===
+#（[[数字]]） '''[[6]]'''
+[[Category:数字|6]]
+[[Category:漢数字]]
+
+=={{L|ja}}==
+{{wikipedia|6}}
+[[Category:{{ja}}]]
+{{ja-kanji|常用=ロク,む,む-つ,むっ-つ,むい|施策=教育:1|呉音=ロク|漢音=リク|唐音=ルウ|訓=む,む-つ,むっ-つ,むい}}
+==={{pron}}===
+{{ja-pron|ろく|acc=2}}
+{{ja-accent-common|region=京阪|a|ろ|く}}
+==={{noun}}===
+[[Category:{{ja}}_{{noun}}]]
+[[Category:{{ja}}_{{numeral}}]]
+'''[[六]]'''（[[ろく]]）
+# [[6]]。[[五]]より[[一]]多い数。カ行、ハ行の前では[[促音便]]になる。[[シックス]]。
+#* {{ふりがな|六個|ろっこ|yomilink=n}}。
+#* {{ふりがな|六匹|ろっぴき|yomilink=n}}。
+#* {{ふりがな|六人|ろくにん|yomilink=n}}。
+===={{trans}}====
+{{trans-top}}
+*{{T|is}}: [[sex]]
+*{{T|ay}}: [[suxta]]
+*{{T|ga}}: [[sé]]
+*{{T|ar}}: {{t|ar|ستّة}}
+*{{T|arc}}:（シリア文字） [[ܫܬܐ]] (shtā, shto) {{m}}, [[ܫܬ]] (shith) {{f}}、（ヘブル文字）  [[שתא]] (shtā, shto) {{m}}, [[שת]] (shith) {{f}}
+*{{T|sq}}: [[gjashtë]]
+*{{T|hy}}: [[վեց ]] (vets)
+*{{T|it}}: [[sei]]
+*{{T|io}}: [[sis]]
+*{{T|ia}}: [[sex]]
+*{{T|id}}: [[enam]]
+*{{T|oaa}}: [[нуӈу]]
+*{{T|cy}}: [[chwech]]
+*{{T|vot}}: [[kuuz]] / [[кууз]]
+*{{T|vo}}: [[mäl]]
+*{{T|uk}}: {{t|uk|шість}}, {{t|uk|шестеро}} ''集合''
+*{{T|en}}: [[six]]
+*:{{T|ang}}: [[siex]]
+*{{T|et}}: [[kuus]]
+*{{T|eo}}: [[ses]]
+*{{T|myv}}: {{t|myv|кото}}
+*{{T|nl}}: [[zes]]
+*{{T|or}}: {{t|or|ଛଅ}}
+*{{T|ca}}: [[sis]]
+*{{T|gl}} [[seis]]
+*{{T|fiu}}: [[kuusi]]
+*{{T|se}}: [[හය]] (haya)
+*{{T|el}}: [[έξι]] (éksi)
+*{{T|gn}}: [[poteĩ]]
+*{{T|gu}}: [[છ]] (cha)
+*{{T|km}}: {{t|km|ប្រាំមួយ|tr=pram muoy}}
+*{{T|ka}}: [[ექვსი]] (ek‘vsi)
+*{{T|ku}}: [[şeş]], {{t|ku|شه‌ش}}
+*{{T|got}}: {{t|got|𐍃𐌰𐌹𐌷𐍃}}
+*{{T|kw}}: [[whegh]]
+*{{T|kv}}: {{t|kv|квайт}}
+*{{T|co}}: [[sei]]
+*{{T|sc}}: [[ses]]
+*{{T|sa}}: [[षष्]] (<u>s</u>á<u>s</u>), [[षण्]] {{Unicode|(ṣaṇ)}}, shasta- ({{prefix}})
+*{{T|sd}}: {{SDchar|[[ڇَهَه]]}} (chahah)
+*{{T|sv}}: [[sex]]
+*{{T|es}}: [[seis]]
+*{{T|sk}}: [[šesť]]
+*{{T|sl}}: [[šest]]
+*{{T|sw}}: [[sita]]
+*{{T|sh}}:
+*:キリル文字: [[шест]]
+*:ラテン文字: [[šest]]
+*{{T|th}}: {{t|th|หก}}
+*{{T|tl}}: [[anim]]
+*{{T|cs}}: [[šest]]
+*{{T|chr}}: {{t|chr|ᏑᏓᎵ}}
+*{{T|zh}}: [[六]] (liù)
+*{{T|ko}}: {{t|ko|여섯}}, {{t|ko|육}} / {{t|ko|륙}}
+*{{T|dv}}: {{t|dv|ހައެއް}}
+*{{T|te}}: {{t|te|ఆరు}}
+*{{T|da}}: [[seks]]
+*{{T|de}}: [[sechs]]
+*{{T|tpi}}: [[sikispela]]
+*{{T|tr}}: [[altı]]
+*{{T|gld}}: [[нюнгун]]
+*{{T|nah}}: [[chicuace]]
+*{{T|fy}}: [[seis]]
+*{{T|no}}: [[seks]]
+*{{T|eu}}: [[sei]]
+*{{T|hu}}: [[hat]]
+*{{T|pa}}: {{t|pa|ਛੇ}}
+*{{T|hi}}: {{t|hi|छह}}
+*{{T|fi}}: [[kuusi]]
+*{{T|fo}}: [[seks]]
+*{{T|fr}}: [[six]]
+*{{T|br}}: [[c'hwec'h]]
+*{{T|he}}: [[שש|שֵׁשׁ]] (shesh) {{f}} ''(数える際に用いる)'', [[שישה|שִׁשָּׁה]] {{m}} (shisha)
+*{{T|fa}}: {{t|fa|شِش|tr=šeš}}
+*{{T|pl}}: {{t|pl|sześć}}
+*{{T|pt}}: [[seis]]
+*{{T|mi}}: [[ono]]
+*{{T|mg}}: [[enina]]
+*{{T|mr}}: {{t|mr|सहा}}
+*{{T|chm}}: {{t|chm|кудыт}}
+*{{T|mt}}: [[sitta]]
+*{{T|mnc}}: {{MongolUnicode|[[ᠨᡳᠩᡤᡠᠨ]]}} (ninggun)
+*{{T|gv}}: [[shey]]
+*{{T|la}}: [[sex]] ''(不変化)''
+*{{T|lv}}: [[seši]] {{m}}, [[sešas]] {{f}}
+*{{T|lt}}: {{t|lt|šešì|m}}, {{t-|lt|šešios|alt=šẽšios|f}}
+*{{T|ro}}: [[şase]]
+*{{T|ru}}: {{t|ru|шесть}}
+*{{T|rhg}}: {{tø|rhg|só}}
+*{{T|rom}}: [[shōv]]
+{{trans-bottom}}
+
+==={{prov}}===
+{{top}}
+*{{ふりがな|一六銀行|いちろくぎんこう|yomilink=n}}
+*{{ふりがな|一六勝負|いちろくしょうぶ|yomilink=n}}
+*{{ふりがな|九六|くんろく|yomilink=n}}
+*{{ふりがな|五臓六腑|ごぞうろっぷ|yomilink=n}}
+*{{ふりがな|三十六計|さんじゅうろっけい|yomilink=n}}
+*{{ふりがな|三面六臂|さんめんろっぴ|yomilink=n}}
+*{{ふりがな|四分六|しぶろく|yomilink=n}}
+*{{ふりがな|四六時中|しろくじちゅう|yomilink=n}}
+*{{ふりがな|甚六|じんろく|yomilink=n}}
+*{{ふりがな|双六|すごろく|yomilink=n}}
+*{{ふりがな|第六感|だいろっかん|yomilink=n}}
+*{{ふりがな|南斗六星|なんとろくせい|yomilink=n}}
+*{{ふりがな|二六時中|にろくじちゅう|yomilink=n}}
+*{{ふりがな|八面六臂|はちめんろっぴ|yomilink=n}}
+*{{ふりがな|表六玉|ひょうろくだま|yomilink=n}}
+*{{ふりがな|兵六玉|ひょうろくだま|yomilink=n}}
+*{{ふりがな|六日|むいか|yomilink=n}}
+*{{ふりがな|六連星|むつらぼし|yomilink=n}}
+*{{ふりがな|宿六|やどろく|yomilink=n}}
+*{{ふりがな|六合|りくごう|yomi2=ろくごう|yomilink=n}}
+*{{ふりがな|六書|りくしょ|yomilink=n}}
+*{{ふりがな|六親|りくしん|yomilink=n}}
+*{{ふりがな|六韜|りくとう|yomilink=n}}
+*{{ふりがな|六韜三略|りくとうさんりゃく|yomilink=n}}
+*{{ふりがな|六花|りっか|yomilink=n}}
+*{{ふりがな|六月|ろくがつ|yomilink=n}}
+*{{ふりがな|六外処|ろくげしょ|yomilink=n}}
+*{{ふりがな|六外入処|ろくげにゅうしょ|yomilink=n}}
+*{{ふりがな|六号記事|ろくごうきじ|yomilink=n}}
+*{{ふりがな|六三制|ろくさんせい|yomilink=n}}
+*{{ふりがな|六識|ろくしき|yomilink=n}}
+*{{ふりがな|六尺|ろくしゃく|yomilink=n}}
+*{{ふりがな|六情|ろくじょう|yomilink=n}}
+*{{ふりがな|六大州|ろくだいしゅう|yomilink=n}}
+*{{ふりがな|六道|ろくどう|yomilink=n}}
+*{{ふりがな|六内処|ろくないしょ|yomilink=n}}
+*{{ふりがな|六内入処|ろくないにゅうしょ|yomilink=n}}
+*{{ふりがな|六入|ろくにゅう|yomilink=n}}
+*{{ふりがな|六波羅蜜|ろくはらみつ|yomilink=n}}
+*{{ふりがな|六部|ろくぶ|yomilink=n}}
+*{{ふりがな|六辺形|ろくへんけい|yomilink=n}}
+*{{ふりがな|六面体|ろくめんたい|yomilink=n}}
+*{{ふりがな|六曜|ろくよう|yomilink=n}}
+*{{ふりがな|六連発|ろくれんぱつ|yomilink=n}}
+*{{ふりがな|六角|ろっかく|yomilink=n}}
+*{{ふりがな|六感|ろっかん|yomilink=n}}
+*{{ふりがな|六境|ろっきょう|yomilink=n}}
+*{{ふりがな|六根|ろっこん|yomilink=n}}
+*{{ふりがな|六根清浄|ろっこんしょうじょう|yomilink=n}}
+*{{ふりがな|六腑|ろっぷ|yomilink=n}}
+*{{ふりがな|六分|ろっぷん|yomilink=n}}
+*{{ふりがな|六方|ろっぽう|yomilink=n}}
+*{{ふりがな|六法全書|ろっぽうぜんしょ|yomilink=n}}
+*{{ふりがな|六本|ろっぽん|yomilink=n}}
+{{bottom}}
+=={{L|zh}}==
+==={{etym}}===
+{{etyl|sit-pro|zh|sort=liu4}} {{m|sit-pro|*d-k-ruk}}
+{{zh-cat|liu4|数詞|hsk=甲|hsk2=1|常=1}}
+==={{pron}}===
+{{zh-han
+|m=liù,lù
+|m-s=nu2/niu2
+|m-x=liǔ
+|m-nj=lůq
+|dg=лю
+|c=luk6
+|c-dg=nguk8
+|c-t=luuk5
+|c-yj=luk6
+|g=liuh6/liuh7
+|pfs=liuk
+|hrs=liug
+|gd=liug5
+|j=liou3/lueh4
+|mb=lṳ̀
+|md=lĕ̤k
+|mn=la̍k/lio̍k
+|mn-t=lag8
+|mn-l=lag8/log4
+|px=pt,xy:lah7/pt:loeh7/xy:lyoeh7
+|sp=loek5
+|w=8loq
+|w-j=8loq
+|x=lou6
+|x-l=lu4
+|x-h=liu2
+|mc=y
+|oc=y
+}}
+==={{numeral}}===
+liù
+#[[6]]。
+
+=={{L|ko}}==
+{{ko-han|륙|eumhun=[[여섯]] 륙|pos=numeral}}
+==={{numeral}}===
+#[[6]]。
+==={{prov}}===
+* {{l|ko|유월}} &lt;[[六月]]&gt;
+
+=={{L|vi}}==
+{{vi-han|lục|pos=numeral}}
+==={{numeral}}===
+#[[6]]。
+
+=={{コード}}==
+{{文字コード|u2=F9D1|jis=1-47-27|mj={{mjmoji|007277}}|gb=C1F9|cns=1-447A|big5=A4BB|ksx=1001-573F}}
+{{検字|倉頡=YC|四角=0080.0}}
+{{字典|dj=0280.010|hdz=10241.090|大字源=552|大漢語林=701|康煕=0127.010|新大字典=901|新潮漢字=697|諸橋=1453}}

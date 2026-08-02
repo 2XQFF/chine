@@ -1,0 +1,25 @@
+{{kana-DEFAULTSORT|リュウ}}
+==漢字==
+<span lang="ja" xml:lang="ja" style="font-size:350%">{{PAGENAME}}</span>
+*{{部首|夂|6}}
+*{{総画|9}}
+
+===意義===
+#礼天。
+#[[おおい|多い]]。
+
+=={{L|ja}}==
+{{ja-kanji|漢音=リュウ|慣用音=リュ}}
+
+=={{L|zh}}==
+[[Category:{{zh}}|long2]]
+{{trans_link|zh|{{PAGENAME}}}}
+*'''ローマ字表記'''
+**'''[[普通話]]'''
+***'''[[ピンイン]]''': [[lóng]] (long2)
+***'''[[ウェード式]]''': lung{{supra|2}}
+
+== 文字情報 ==
+=== 文字コード ===
+{{codepoint}}
+[[Category:漢字]]

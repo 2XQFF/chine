@@ -1,0 +1,403 @@
+{{kana-DEFAULTSORT|さん}}
+{{commonscat}}
+==漢字==
+{{kanji|一|2}}
+{{kanji variants|参=[[大字]]|參=[[大字]]|叁|叄|弎=[[古字]]|𫧁=[[同字]]}}
+*筆順 : [[image:{{PAGENAME}}-bw.png|200px]]
+===字源===
+* [[指事文字|指事]]。三本の横線を引いた形<ref group="字源">季旭昇撰 『説文新証』 芸文印書館、2014年、51頁。</ref>。「[[みっつ]]」を意味する[[漢語]]｛[[三]] {{phoneme|*sˤəm}}｝を表す字。
+{{字源}}
+* [[上古音]]は布之道『[http://www.kaom.net/sgy_bzd.php 広韻形声考]』による。
+<references group="字源" />
+===意義===
+#（数字）'''[[3]]'''。
+[[Category:数字|3]]
+[[Category:漢数字]]
+
+=={{L|ja}}==
+{{wikipedia|3}}
+[[Category:{{ja}}]]
+{{ja-kanji|常用=サン,み,み-つ,みっ-つ|施策=教育:1|呉音=*|漢音=サン<サム|訓=み,み-つ,みっ-つ,みい|名乗=さい,ぞう}}
+===数詞===
+[[Category:{{ja}}_数詞]]
+# 数詞「3」、数量及び順位を示す。
+===={{trans}}====
+{{trans-top}}
+*{{T|is}}: {{t|is|þrír|m}}, {{t|is|þrjár|f}}, {{t|is|þrjú|n}}
+*{{T|ga}}: {{t|ga|trí}}
+*{{T|ay}}: {{t|ay|quimsa}}
+*{{apa}}: [[táági]]
+*{{T|ar}}: {{t|ar|ثَلَاثَة}}
+*{{T|sq}}: {{t|sq|tre|m}}, {{t|sq|tri|f}}
+*{{T|it}}: {{t|it|tre}}
+*{{T|io}}: {{t|io|tri}}
+*{{T|ia}}: {{t|ia|tres}}
+*{{T|id}}: {{t|id|tiga}}
+*{{T|oaa}}: {{t|oaa|ила̄}}
+*{{T|cy}}: {{t|cy|tri|m}}, {{t|cy|tair|f}}
+*{{T|uk}}: {{t|uk|три}}
+*{{T|en}}: {{t|en|three}}
+*:{{T|ang}}: {{t|ang|þrie}}, {{t|ang|þreo}}
+*{{T|et}}: {{t|et|kolm}}
+*{{T|eo}}: {{t|eo|tri}}
+*{{T|nl}}: {{t|nl|drie}}
+*{{T|or}}: {{t|or|ତିନି}}
+*{{T|ca}}: {{t|ca|tres}}
+*{{T|el}}: {{t|el|τρείς}}, {{t|el|τρία}}
+*{{T|gn}}: {{t|gn|mbohapy}}
+*{{T|kl}}: {{t|kl|pingasut}}
+*{{T|ka}}: {{t|ka|სამი}}
+*{{T|ku}}: {{t|ku|سيَ|tr=sê}}
+*{{T|qu}}: {{t|qu|kinsa}}
+*{{T|naq}}: {{tø|naq|!nona}}
+*{{T|got}}: {{t|got|𐌸𐍂𐌴𐌹𐍃|m}}, {{t|got|𐌸𐍂𐌹𐌾𐌰|n}}, {{t|got|𐌸𐍂𐌴𐌹𐍃|f}}
+*{{T|kw}}: {{t|kw|tri|m}}, {{t|kw|teyr|f}}
+*{{smi}}: [[golbma]]
+*{{T|sa}}: {{t|sa|त्रि}}, {{t|sa|त्रयं|tr=traya}}
+*{{T|sv}}: {{t|sv|tre}}
+*{{T|es}}: {{t|es|tres}}
+*{{T|sk}}: {{t|sk|tri}}, {{t|sk|traja}}
+*{{T|sl}}: {{t|sl|tri}}
+*{{T|sh}}:
+*:キリル文字: {{t|sh|три}}
+*:ラテン文字: {{t|sh|tri}}
+*{{T|th}}: {{t|th|สาม}}
+*{{T|tl}}: {{t|tl|tatlo}}
+*{{T|cs}}: {{t|cs|tři}}
+*{{T|zh}}: [[三]] (sān)
+*{{T|da}}: {{t|da|tre}}
+*{{T|dv}}: {{t|dv|ތިނެއް}}
+*{{T|de}}: {{t|de|drei}}
+*{{T|tpn}}: {{t|tpn|mosapyr}}
+*{{T|tpi}}: {{t|tpi|tripela}}
+*{{T|ood}}: {{tø|ood|vaik}}
+*{{T|tr}}: {{t|tr|üç}}
+*{{T|na}}: {{t|na|aiyu}}, {{t|na|aiju}}
+*{{T|gld}}: {{t|gld|ила̄н}}
+*{{T|nah}}: {{t|nah|yei}}
+*{{T|fy}}: {{t|fy|trije}}
+*{{T|no}}: {{t|no|tre}}
+*{{T|nrf}}: {{t|nrf|trais}}
+*{{T|eu}}: {{t|eu|hiru}}
+*{{T|hu}}: {{t|hu|három}}
+*{{T|hi}}: {{t|hi|तीन}}
+*{{T|fj}}: {{t|fj|tolu}}
+*{{T|fi}}: {{t|fi|kolme}}
+*{{T|fr}}: {{t|es|trois}}
+*{{T|br}}: {{t|br|tri|m}}, {{t|br|teir|f}}
+*{{T|vi}}: {{t|vi|ba}}
+*{{T|he}}: {{t|he|שלוש|f}}
+*{{T|be}}: {{t|be|тры}}
+*{{T|fa}}: {{t|fa|سِه|tr=se}}
+*{{T|pl}}: {{t|pl|trzy}}
+*{{T|pt}}: [[três]]
+*{{T|mh}}: {{tø|mh|jilu}}
+*{{T|mg}}: {{t|mg|telo}}
+*{{T|mr}}: {{t-|mr|तीन|tr=tīn}}
+*{{T|mrc}}: {{tø|mrc|xamok}}, {{tø|mrc|hmuk}}, {{tø|mrc|xmokk}}
+*{{T|ms}}: {{t|ms|tiga}}
+*{{T|mnc}}: {{MongolUnicode|[[ᡳᠯᠠᠨ]]}} (ilan)
+*{{T|gv}}: {{t|gv|three}}
+*{{T|la}}: {{t|la|tres}}
+*{{T|rap}}: {{tø|rap|ka toru}}
+*{{T|lt}}: {{t|lt|trỹs}}
+*{{T|ro}}: {{t|ro|trei}}
+*{{T|ru}}: {{t|ru|три}}
+{{trans-bottom}}
+
+===={{prov}}====
+{{rel-top5}}
+*{{ふりがな|再三|さいさん|yomilink=no}}
+*{{ふりがな|再三再四|さいさんさいし|yomilink=no}}
+*{{ふりがな|三毬杖|さぎちょう|yomilink=no}}
+*{{ふりがな|三畏|さんい|yomilink=no}}
+*{{ふりがな|三易|さんえき|yomilink=no}}
+*[[三遠南信]]
+*{{ふりがな|三猿|さんえん|yomilink=no}}
+*{{ふりがな|三夏|さんか|yomilink=no}}
+*{{ふりがな|三科|さんか|yomilink=no}}
+*{{ふりがな|三戒|さんかい|yomilink=no}}
+*{{ふりがな|三槐|さんかい|yomilink=no}}
+*{{ふりがな|三界|さんがい|yomilink=no}}
+*{{ふりがな|三革|さんかく|yomilink=no}}
+*{{ふりがな|三易|さんかく|yomilink=no}}
+*{{ふりがな|三角形|さんかっけい|yomilink=no}}
+*{{ふりがな|三浣|さんかん|yomilink=no}}
+*{{ふりがな|三韓|さんかん|yomilink=no}}
+*{{ふりがな|三寒四温|さんかんしおん|yomilink=no}}
+*{{ふりがな|三器|さんき|yomilink=no}}
+*{{ふりがな|三峡|さんきょう|yomilink=no}}
+*{{ふりがな|三教|さんきょう|yomilink=no}}
+*{{ふりがな|三曲|さんきょく|yomilink=no}}
+*{{ふりがな|三軍|さんぐん|yomilink=no}}
+*{{ふりがな|三家|さんけ|yomilink=no}}
+*{{ふりがな|三計|さんけい|yomilink=no}}
+*{{ふりがな|三傑|さんけつ|yomilink=no}}
+*{{ふりがな|三愆|さんけん|yomilink=no}}
+*{{ふりがな|三権|さんけん|yomilink=no}}
+*{{ふりがな|三元|さんげん|yomilink=no}}
+*{{ふりがな|三弦|さんげん|yomilink=no}}
+*{{ふりがな|三原色|さんげんしょく|yomilink=no}}
+*{{ふりがな|三孤|さんこ|yomilink=no}}
+*{{ふりがな|三鈷|さんこ|yomilink=no}}
+*{{ふりがな|三鼓|さんこ|yomilink=no}}
+*{{ふりがな|三顧|さんこ|yomilink=no}}
+*{{ふりがな|三公|さんこう|yomilink=no}}
+*{{ふりがな|三后|さんこう|yomilink=no}}
+*{{ふりがな|三行|さんこう|yomilink=no}}
+*{{ふりがな|三皇|さんこう|yomilink=no}}
+*{{ふりがな|三綱|さんごう|yomilink=no}}
+*{{ふりがな|三皇五帝|さんこうごてい|yomilink=no}}
+*{{ふりがな|三国|さんごく|yomi2=みくに|yomilink=no}}
+*{{ふりがな|三五夜|さんごや|yomilink=no}}
+*{{ふりがな|三才|さんさい|yomilink=no}}
+*{{ふりがな|三災|さんさい|yomilink=no}}
+*{{ふりがな|三々九度|さんさんくど|yomilink=no}}
+*{{ふりがな|三々五々|さんさんごご|yomilink=no}}
+*{{ふりがな|三尸|さんし|yomilink=no}}
+*{{ふりがな|三司|さんし|yomilink=no}}
+*{{ふりがな|三史|さんし|yomilink=no}}
+*{{ふりがな|三思|さんし|yomilink=no}}
+*{{ふりがな|三師|さんし|yomilink=no}}
+*{{ふりがな|三時|さんじ|yomilink=no}}
+*{{ふりがな|三尺|さんじゃく|yomilink=no}}
+*{{ふりがな|三秋|さんしゅう|yomilink=no}}
+*{{ふりがな|三従|さんじゅう|yomilink=no}}
+*{{ふりがな|三十二相|さんじゅうにそう|yomilink=no}}
+*{{ふりがな|三種競技|さんしゅきょうぎ|yomilink=no}}
+*{{ふりがな|三春|さんしゅん|yomilink=no}}
+*{{ふりがな|三上|さんじょう|yomilink=no}}
+*{{ふりがな|三辰|さんしん|yomilink=no}}
+*{{ふりがな|三晋|さんしん|yomilink=no}}
+*{{ふりがな|三神山|さんしんざん|yomilink=no}}
+*{{ふりがな|三途|さんず|yomilink=no}}
+*{{ふりがな|三世|さんぜ|yomilink=no}}
+*{{ふりがな|三正|さんせい|yomilink=no}}
+*{{ふりがな|三牲|さんせい|yomilink=no}}
+*{{ふりがな|三省|さんせい|yomi2=さんしょう|yomilink=no}}
+*{{ふりがな|三聖|さんせい|yomilink=no}}
+*{{ふりがな|三蹟|さんせき|yomilink=no}}
+*{{ふりがな|三千世界|さんぜんせかい|yomilink=no}}
+*{{ふりがな|三蘇|さんそ|yomilink=no}}
+*{{ふりがな|三蔵|さんぞう|yomilink=no}}
+*{{ふりがな|三族|さんぞく|yomilink=no}}
+*{{ふりがな|三尊|さんぞん|yomilink=no}}
+*{{ふりがな|三体|さんたい|yomilink=no}}
+*{{ふりがな|三代|さんだい|yomilink=no}}
+*{{ふりがな|三台|さんだい|yomilink=no}}
+*{{ふりがな|三体詩|さんたいし|yomilink=no}}
+*{{ふりがな|三大聖樹|さんだいせいじゅ|yomilink=no}}
+*{{ふりがな|三大青銅器|さんだいせいどうき|yomilink=no}}
+*{{ふりがな|三嘆|さんたん|yomilink=no}}
+*{{ふりがな|三知|さんち|yomilink=no}}
+*{{ふりがな|三通|さんつう|yomilink=no}}
+*{{ふりがな|三伝|さんでん|yomilink=no}}
+*{{ふりがな|三都|さんと|yomilink=no}}
+*{{ふりがな|三冬|さんとう|yomilink=no}}
+*{{ふりがな|三徳|さんとく|yomilink=no}}
+*{{ふりがな|三王|さんのう|yomi2=さんおう|yomilink=no}}
+*{{ふりがな|三番叟|さんばそう|yomilink=no}}
+*{{ふりがな|三筆|さんぴつ|yomilink=no}}
+*{{ふりがな|三百代言|さんびゃくだいげん|yomilink=no}}
+*{{ふりがな|三苗|さんびょう|yomilink=no}}
+*{{ふりがな|三品|さんぴん|yomi2=さんぽん|yomilink=no}}
+*{{ふりがな|三不去|さんふきょ|yomilink=no}}
+*{{ふりがな|三伏|さんぷく|yomilink=no}}
+*{{ふりがな|三幅対|さんぶくつい|yomilink=no}}
+*{{ふりがな|三分鼎足|さんぶんていそく|yomilink=no}}
+*{{ふりがな|三墳五典|さんぷんごてん|yomilink=no}}
+*{{ふりがな|三辺|さんぺん|yomilink=no}}
+*{{ふりがな|三方|さんぽう|yomilink=no}}
+*{{ふりがな|三宝|さんぽう|yomilink=no}}
+*{{ふりがな|三本|さんぼん|yomilink=no}}
+*{{ふりがな|三味|さんまい|yomilink=no}}
+*{{ふりがな|三摩地|さんまじ|yomilink=no}}
+*{{ふりがな|三位一体|さんみいったい|yomilink=no}}
+*{{ふりがな|三民主義|さんみんしゅぎ|yomilink=no}}
+*[[三目並べ]]
+*{{ふりがな|三門|さんもん|yomilink=no}}
+*{{ふりがな|三友|さんゆう|yomilink=no}}
+*{{ふりがな|三余|さんよ|yomilink=no}}
+*{{ふりがな|三礼|さんらい|yomilink=no}}
+*{{ふりがな|三楽|さんらく|yomilink=no}}
+*{{ふりがな|三里|さんり|yomilink=no}}
+*{{ふりがな|三略|さんりゃく|yomilink=no}}
+*{{ふりがな|三閭大夫|さんりょたいふ|yomilink=no}}
+*{{ふりがな|三老|さんろう|yomilink=no}}
+*{{ふりがな|三論|さんろん|yomilink=no}}
+*{{ふりがな|三味線|しゃみせん|yomi2=さみせん|yomilink=no}}
+*{{ふりがな|三鞭酒|シャンパン}}
+*{{ふりがな|三和土|たたき}}
+{{rel-bottom}}
+
+=={{L|zh}}==
+{{zh-cat|san1|数詞|形容詞|hsk=甲|hsk2=1|常=1}}
+==={{etym}}===
+{{etyl|sit-pro|zh|sort=san1}} {{m|sit-pro|*kV-sum}}
+==={{pron}}===
+{{zh-han
+|m=sān
+|er=y
+|m-s=san1
+|m-x=sǎn
+|m-nj=sàn
+|dg=сан
+|c=saam1
+|c-dg=saang1
+|c-t=lham1
+|c-yj=slaam1
+|g=san1
+|pfs=sâm
+|hrs=samˋ
+|gd=sam1
+|ct=sang1
+|j=san1
+|mb=sáng
+|md=săng
+|mn=ml,jj,ct,tw:saⁿ/ml,jj,ct,tw:sam
+|mn-t=san1/sam1
+|mn-l=sa1/sam1
+|px=pt,jk,nr:sor1/dh,xy,yy,ft:sornn1/pt,jk,nr,dh,xy,yy,ft:sang1
+|sp=slaam1
+|w=1se,1sae,1sa,1saen
+|w-j=1sa,1san
+|x=san1
+|x-l=sann1
+|x-h=san1
+|mc=1
+|oc=1,1
+}}
+==={{numeral}}===
+#[[3]]、[[二]]の次の自然数。[[スリー]]。
+==={{adjective}}===
+#[[くりかえす|くりかえし]]、[[たびたび]]、[[多数]]の。
+#*[[三缄其口]]
+#*:何度も口を[[つぐむ|噤む]]→黙る。
+==={{prov}}===
+{{top5}}
+*[[三八]]
+*[[三八妇女节，三八节]]
+*[[三百六十行]]
+*[[三百六十行,行行出状元]]
+*[[三胞胎]]
+*[[三倍]]
+*[[三边形]]
+*[[三不管]]
+*[[三不管地区]]
+*[[三不知]]
+*[[一问三不知]]
+*[[三叉戟]]
+*[[三岔路口]]
+*[[三长两短]]
+*[[三朝元老]]
+*[[三成]]
+*[[三尺]]
+*[[三虫]]
+*[[三从四德]]
+*[[三寸不烂之舌]]
+*[[三大差别]]
+*[[三大发明]]
+*[[三大洋]]
+*[[三代]]
+*[[三冬]]
+*[[三番五次]]
+*[[三废]]
+*[[三分鼎足]]
+*[[三伏]]
+*[[三纲五常]]
+*[[三个臭皮匠，赛过诸葛亮]]
+*[[三更]]
+*[[三更半夜]]
+*[[三宫六院]]
+*[[三姑六婆]]
+*[[三顾茅庐]]
+*[[三光]]
+*[[三国]]
+*[[三合板]]
+*[[三合土]]
+*[[三河]]
+*[[三皇]]
+*[[三魂七魄]]
+*[[三季稻]]
+*[[三家村]]
+*[[三缄其口]]
+*[[三角]]
+*[[三角板]]
+*[[三角关系]]
+*[[三角恋爱]]
+*[[三角形]]
+*[[三角债]]
+*[[三角洲]]
+*[[三脚架]]
+*[[三教九流]]
+*[[三军]]
+*[[三K党]]
+*[[三棱镜]]
+*[[三连冠]]
+*[[三令五申]]
+*[[三轮车]]
+*[[三昧]]
+*[[三面手]]
+*[[三明治]]
+*[[三年五载]]
+*[[三朋四友]]
+*[[三七开]]
+*[[三亲六故]]
+*[[三亲六眷]]
+*[[三秦]]
+*[[三秋]]
+*[[三三两两]]
+*[[三生]]
+*[[三生有幸]]
+*[[三牲]]
+*[[三省]]
+*[[三十而立]]
+*[[三十六计，走为上计]]
+*[[三世]]
+*[[三思]]
+*[[三思而行]]
+*[[三天打鱼，两天晒网]]
+*[[三通]]
+*[[三头六臂]]
+*[[三峡]]
+*[[三下五除二]]
+*[[三夏]]
+*[[三鲜]]
+*[[三弦]]
+*[[三相电流]]
+*[[三言两语，三言两句]]
+*[[三元]]
+*[[三月]]
+*[[三灾八难]]
+*[[三只手]]
+*[[三资]]
+*[[三资企业]]
+{{bottom}}
+{{yue-cat|saam1|数詞}}
+
+=={{L|ko}}==
+{{ko-han|삼|eumhun=[[석]] 삼|pos=numeral}}
+==={{numeral}}===
+[[Category:{{ko}} 基数|삼 三]]
+#[[3]]。
+==={{prov}}===
+* {{l|ko|바른삼각형}} &lt; - 三角形&gt;
+* {{l|ko|삼각형}} &lt;[[三角形]]&gt;
+* {{l|ko|삼거리}} &lt;三 - &gt;
+* {{l|ko|삼촌}} &lt;[[三寸]]&gt;
+* {{l|ko|삼중살}} &lt;[[三重殺]]&gt;
+* {{l|ko|외삼촌}} &lt;[[外三寸]]&gt;
+* {{l|ko|이등변삼각형}} &lt;[[二等邊三角形]]&gt;
+* {{l|ko|정삼각형}} &lt;[[正三角形]]&gt;
+
+=={{L|vi}}==
+{{vi-han|tam}}
+==={{rel}}===
+固有言語: [[ba]]（日本語で「[[み]]、[[みつ]]、[[みっつ]]」にあたる言葉）
+:[[チュノム]]では、音の「[[巴]]」と組み合わせ、[[𠀧]]と表記した。
+
+=={{コード}}==
+{{文字コード|jis=1-27-16|mj={{mjmoji|006305}}|gb=C8FD|cns=1-4435|big5=A454|ksx=1001-5F32}}
+{{検字|倉頡=MMM|四角=1010.1}}
+{{字典|dj=0138.010|hdz=10004.030|大字源=5|大漢語林=10|康煕=0076.050|新大字典=11|新潮漢字=9|諸橋=12}}
+[[カテゴリ:IICORE]]

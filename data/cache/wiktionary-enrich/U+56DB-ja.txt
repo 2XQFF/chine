@@ -1,0 +1,239 @@
+{{kana-DEFAULTSORT|し}}
+{{半保護S}}
+
+{{commonscat}}
+==漢字==
+{{kanji|囗|2}}
+{{kanji variants|亖|𦉭=[[古字]]|肆=[[大字]]|𠁤|𠃢|𰉐=[[同字]]|𛁇=[[変体仮名]]}}
+{{筆順}}
+===字源===
+* [[象形文字|象形]]。鼻から息を出すさま、または鼻から鼻水を出すさまを象る<ref group="字源">劉洪濤 「釈“四”」 『漢語言文字研究』第2輯 安徽大学漢字発展与応用研究中心編、上海古籍出版社、2018年、141-149頁。</ref>。「[[いき]]」を意味する[[漢語]]｛[[呬]] {{phoneme|*hrih}}｝、または「[[はなみず]]」を意味する漢語｛[[泗]] {{phoneme|*ɬih}}｝を表す字。[[仮借]]して「[[よっつ]]」を意味する漢語｛[[四]] {{phoneme|*ɬih}}｝に用いる。
+** [[数詞]]の｛四｝は、この文字が用いられる以前は、横線を4本並べた文字「[[亖]]」で表されていた。
+{{字源}}
+* [[上古音]]は布之道『[http://www.kaom.net/sgy_bzd.php 広韻形声考]』による。
+<references group="字源" />
+===意義===
+#（数字） '''[[4]]'''、[[フォー]]。
+[[Category:数字|4]]
+[[Category:漢数字]]
+
+=={{L|ja}}==
+[[Category:{{ja}}|し]]
+{{Wikipedia|4}}
+{{ja-kanji|常用=シ,よ,よ-つ,よっ-つ,よん|施策=教育:1|呉音=シ|漢音=シ|宋音=ス|訓=よ,よん,よ-つ,よっ-つ}}
+===={{prov}}====
+{{top}}
+*{{ふりがな|四季|しき|yomilink=no}}
+*{{ふりがな|四股|しこ|yomilink=no}}
+*{{ふりがな|四捨五入|ししゃごにゅう|yomilink=no}}
+*{{ふりがな|四相|しそう|yomilink=no}}
+*{{ふりがな|四則演算|しそくえんざん|yomilink=no}}
+*{{ふりがな|四諦|したい|yomilink=no}}
+*{{ふりがな|四大|しだい|yomilink=no}}
+*{{ふりがな|四天王|してんのう|yomilink=no}}
+*{{ふりがな|四面楚歌|しめんそか|yomilink=no}}
+*{{ふりがな|再三再四|さいさんさいし|yomilink=no}}
+{{bottom}}
+==={{noun}}===
+[[Category:{{ja}}_{{noun}}|よん]]
+[[Category:{{ja}}_数詞|よん]]
+'''[[四]]'''（[[よん]]、[[し]]）
+# [[4]]。[[三]]より[[一]]多い数。単独では[[し]]とも読むが、助数詞が続く場合や小数部では[[よん]]と読む。[[人]]、[[年]]などの前では[[よ]]になる。[[日]]の場合は別の語の[[よっか]]になる。
+#* [[十四]]（じゅうよん、じゅうし）。[[四十四]]（よんじゅうよん、しじゅうし）。
+#* {{ふりがな|四月|しがつ}}。 {{ふりがな|四五日|しごにち}}。 {{ふりがな|四重奏|しじゅうそう}}。 {{ふりがな|四元数|しげんすう}}。 {{ふりがな|四国|しこく}}。
+#* {{ふりがな|四個|よんこ|yomilink=n}}。{{ふりがな|四匹|よんひき|yomilink=n}}。{{ふりがな|四種競技|よんしゅきょうぎ|yomilink=n}}。
+#* {{ふりがな|四人|よにん|yomilink=n}}。{{ふりがな|四年|よねん|yomilink=n}}。
+#* {{ふりがな|四日|よっか}}。{{ふりがな|十四日|じゅうよっか}}。{{ふりがな|二十四日|にじゅうよっか}}。
+===={{trans}}====
+基数　4　（序数は'''[[第四]]'''参照）
+{{trans-top}}
+*{{T|is}}: [[fjórir]] {{m}}, [[fjórar]] {{f}}, [[fjögur]] {{n}}
+*{{T|ga}}: [[ceathair]]
+*{{T|ar}}: {{ARchar|[[اربعة|أربعة]]}} {{Unicode|(’árbaʕa)}}
+*{{T|sq}}: [[katër]]
+*{{T|hy}}: [[չորս]] (chors)
+*{{T|it}}: [[quattro]] {{m}}
+*{{T|io}}: [[quar]]
+*{{T|ia}}: [[quatro]]
+*{{T|id}}: [[empat]]
+*{{T|oaa}}: [[ӡӣн]]
+*{{T|cy}}: [[pedwar]] {{m}}, [[pedair]] {{f}}; ordinal
+*{{T|vot}}: [[nellä]] / [[неллэ]]
+*{{T|vo}}: [[fol]]
+*{{T|uk}}: [[чотири]] (čotýry), [[четверо]] (čétvero) ''(集合)''
+*{{T|en}}: [[four]]
+*:{{T|ang}}: [[feower]]
+*{{T|et}}: [[neli]]
+*{{T|eo}}: [[kvar]]
+*{{T|myv}}: [[ниле]] (nile)
+*{{T|nl}}: [[vier]]
+*{{T|or}}: [[ଚାରି]] (cāri)
+*{{T|ca}}: [[quatre]]
+*{{T|krl}}: [[neä]]
+*{{T|el}}: [[τέσσερα]] (téssera)
+*:{{T|grc}}: [[τέτταρες]] (téttares)
+*{{T|gn}}: [[irundy]]
+*{{T|gu}}: [[ચાર]] (ćār)
+*{{T|ka}}: [[ოთხი]] (ot‘χi)
+*{{T|qu}}: [[tahua]]
+*{{T|got}}: {{Gothic|[[𐍆𐌹𐌳𐍅𐍉𐍂]]}} (fidwor)
+*{{T|kw}}: [[peswar]] {{m}}, [[peder]] {{f}}
+*{{T|kv}}: [[нёль]] (njolj)
+*{{T|co}}: [[quattru]]
+*{{T|sa}}: [[चतुर्]] (catúr), [[चतुस्]] (catus)
+*{{T|sd}}: {{SDchar|[[چار]]}} (čār)
+*{{T|sv}}: [[fyra]]
+*{{T|gd}}: [[ceithir]]
+*{{T|es}}: [[cuatro]]
+*{{T|sk}}: [[štyri]]
+*{{T|sl}}: [[štiri]]
+*{{T|sw}}: [[nne]]
+*{{T|sh}}:
+*:キリル文字: [[четири]]
+*:ラテン文字: [[četiri]]
+*{{T|th}}: {{THchar|[[สี่]]}} (sèe)
+*{{T|tl}}: [[apat]]
+*{{T|cs}}: [[čtyři]]
+*{{T|chr}}: [[ᏅᎩ]] (nvgi)
+*{{T|zh}}: [[四]] (sì)
+*{{T|ko}}: {{t|ko|넷}}, {{t|ko|사}} [四]
+*{{T|dv}}: [[ހަތަލެއް]] (hathaleh)
+*{{T|te}}: [[నాలుగు]] (naalugu)
+*{{T|da}}: {{t|da|fire}}
+*{{T|de}}: [[vier]]
+*{{T|ng}}: {{Unicode|[[ejwɛ]]}}
+*{{T|tpi}}: [[fopela]]
+*{{T|tr}}: [[dört]]
+*{{T|gld}}: [[дуин]]
+*{{T|nah}}: [[nahui]]
+*{{T|fy}}: [[fjouwer]]
+*{{T|no}}: {{t|no|fire}}
+*{{T|eu}}: [[lau]]
+*{{T|hu}}: [[négy]]
+*{{T|hi}}: [[चार]] (ćār)
+*{{T|fj}}: [[va]]
+*{{T|fi}}: [[neljä]]
+*{{T|fr}}: [[quatre]] {{m}}
+*{{T|bg}}: [[четири]] (chetiri)
+*{{T|br}}: [[pevar]] {{m}}, [[peder]] {{f}}
+*{{T|vi}}: [[bốn]]
+*{{T|he}}: [[ארבע|אַרְבַּע]] (arbá) {{f}} ''(数える時に用いる)'', [[ארבעה|אַרְבָּעָה]] (arbaá) {{m}}
+*{{T|be}}: [[чатыры]] (čatyry)
+*{{T|fa}}: {{FAchar|[[چهار|چَهار]]}} (čæhār), (čāhār)
+*{{T|pl}}: {{t|pl|cztery}}
+*{{T|pt}}: [[quatro]]
+*{{T|mi}}: [[wha]]
+*{{T|mr}}: [[चार]] (ćār)
+*{{T|chm}}: [[нылыт]] (nylyt)
+*{{T|mnc}}: {{MongolUnicode|[[ᡩᡠᡳᠨ]]}} (duin)
+*{{T|gv}}: [[kiare]]
+*{{T|la}}: [[quattuor]] ''不変化''
+*{{T|lv}}: {{t|lv|četri|m}}, {{t-|lv|četras|f}}
+*{{T|lt}}: {{t|lt|keturì|m}}, {{t|lt|kẽturios|f}}
+*{{T|ro}}: [[patru]]
+*{{T|ru}}: {{t|ru|четыре}}
+*{{T|rom}}: [[shtar]]
+{{trans-bottom}}
+
+=={{L|zh}}==
+{{zh-cat|si4|数詞|hsk=甲|hsk2=1|常=1}}
+==={{etym}}===
+*{{etyl|sit-pro|zh|sort=si4}} {{m|sit-pro|*pV-lij|t=4}}<ref group="語源">Paul Benedict, ''Sino-Tibetan: a Conspectus'', Cambridge University Press, p. 162.</ref>。
+** チベット語 [[བཞི]] 、ビルマ語 [[လေး]] （古ビルマ語 [[လိယ်]]）、西夏語 [[𗥃]] 等と同根<ref group="語源">Weldon South Coblin, ''A Sinologists Handlist of Sino-Tibetan Lexical Comparisons'', Steyler Verlag, 1986, p. 83.<br>龔煌城 「The System of Finals in Proto-Sino-Tibetan」 『漢蔵語研究論文集』 北京大学出版社、2002年、101頁。<br>Axel Schuessler, ''ABC Etymological Dictionary of old chinese'', University of Hawaii Press, 2006, p. 478.</ref>。
+<references group="語源" />
+
+==={{pron}}===
+{{zh-han
+|m=sì
+|m-s=si4
+|m-x=sī
+|m-nj=siī/siì/shiī
+|dg=сы
+|c=sei3,si3
+|c-dg=sai3
+|c-t=lhei1,lhu1
+|c-yj=slei3
+|g=si4
+|pfs=si
+|hrs=siˇ
+|gd=xi4
+|j=si3
+|mb=si̿
+|md=sé/sé̤ṳ
+|mn=ml,jj,na,ha,ct,zp,ly,tw,sg,pn,ph:sì/xm,zz,ct,zp,tw,sg,pn:sù/qz,na,ha,ly,sg:sìr
+|mn-t=si3
+|mn-l=xi3
+|px=pt,jk,nr,dh,xy,yy,ft:si4/pt,jk,nr,xy,yy:so4/dh,ft:ser4
+|sp=si3
+|w=5sy,3sy,1sy,5syu
+|w-j=5si,5sy
+|x=sr4
+|x-l=sr4
+|x-h=sr4
+|mc=y
+|oc=y
+}}
+==={{numeral}}===
+#[[4]]。
+==={{prov}}===
+{{top5}}
+* {{ZHfont|[[四…八…]]}}
+* {{ZHfont|[[四壁]]}}
+* {{ZHfont|[[四边]], [[四边儿]]}}
+* {{ZHfont|[[四边形]]}}
+* {{ZHfont|[[四不像]]}}
+* {{ZHfont|[[四部]]}}
+* {{ZHfont|[[四重奏]]}}
+* {{ZHfont|[[四出]]}}
+* {{ZHfont|[[四处]]}}
+* {{ZHfont|[[四大皆空]]}}
+* {{ZHfont|[[四方]]}}
+* {{ZHfont|[[四顾]]}}
+* {{ZHfont|[[四海]]}}
+* {{ZHfont|[[四合房]]}}
+* {{ZHfont|[[四合院]]}}
+* {{ZHfont|[[四呼]]}}
+* {{ZHfont|[[四季]]}}
+* {{ZHfont|[[四角号码]]}}
+* {{ZHfont|[[四脚蛇]]}}
+* {{ZHfont|[[四邻]]}}
+* {{ZHfont|[[四面八方]]}}
+* {{ZHfont|[[四面楚歌]]}}
+* {{ZHfont|[[四拇指]]}}
+* {{ZHfont|[[四声]]}}
+* {{ZHfont|[[四时]]}}
+* {{ZHfont|[[四体]]}}
+* {{ZHfont|[[四外]]}}
+* {{ZHfont|[[四围]]}}
+* {{ZHfont|[[四维空间]]}}
+* {{ZHfont|[[四仙桌]]}}
+* {{ZHfont|[[四则]]}}
+* {{ZHfont|[[四肢]]}}
+* {{ZHfont|[[四周]]}}
+* {{ZHfont|[[四周围]]}}
+{{bottom}}
+
+=={{L|ko}}==
+{{ko-han|사|eumhun=[[넉]] 사|pos=numeral}}
+==={{numeral}}===
+#[[4]]。
+==={{prov}}===
+* {{l|ko|사각형}} &lt;[[四角形]]&gt;
+* {{l|ko|사방형}} &lt;[[四方形]]&gt;
+* {{l|ko|사변형}} &lt;[[四邊形]]&gt;
+* {{l|ko|사촌}} &lt;[[四寸]]&gt;
+* {{l|ko|외사촌}} &lt;[[外四寸]]&gt;
+* {{l|ko|정사각형}} &lt;[[正四角形]]&gt;
+* {{l|ko|정사변형}} &lt;[[正四邊形]]&gt;
+* {{l|ko|직사각형}} &lt;[[直四角形]]&gt;
+
+=={{L|vi}}==
+{{vi-han|tứ}}
+==={{prov}}===
+* {{l|vi|thứ tư}} 【[[次四]]】
+* {{l|vi|tháng tư}} 【[[𣎃四]]】
+
+=={{コード}}==
+{{文字コード|jis=1-27-45|mj={{mjmoji|008816|008817}}|gb=CBC4|cns=1-463E|big5=A57C|ksx=1001-5E4C}}
+{{検字|倉頡=WC|四角=6021.0}}
+{{字典|dj=0439.210|hdz=10710.160|大字源=1446|大漢語林=1719|康煕=0216.220|新大字典=2450/2451|新潮漢字=1782|諸橋=4682}}

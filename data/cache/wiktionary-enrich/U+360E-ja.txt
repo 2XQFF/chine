@@ -1,0 +1,12 @@
+==漢字==
+<span lang="ja" xml:lang="ja" style="font-size:350%">{{PAGENAME}}</span>
+*{{部首|口|15}}
+*{{総画|18}}
+{{kanji variants|㘚}}
+===意義===
+#「[[㘚]]」の[[簡体字]]（『{{w|漢語大字典}}』掲載）。
+
+=={{コード}}==
+{{codepoint}}
+{{漢字}}
+[[カテゴリ:簡体字|han3]]

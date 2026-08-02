@@ -1,0 +1,33 @@
+{{kana-DEFAULTSORT|シ}}
+==漢字==
+{{kanji|广|6}}
+{{kanji variants|𢈠=[[訛字]]}}
+===字源===
+[[形声文字|形声]]。「[[广]]」+音符「[[朿]] {{phoneme|*TSEK}}<ref group="字源" name="上古音">{{R:och:GYXSK}}</ref>」。
+{{字源}}
+<references group="字源"/>
+===字義===
+#低い家。
+#傾いた家。
+
+=={{L|ja}}==
+{{ja-kanji|音=シ}}
+
+=={{L|zh}}==
+{{zh-cat|ci4}}
+{{yue-cat|chi3}}
+{{nan-tws-cat|ci3}}
+{{ltc-cat|tshje2}}
+{{och-cat|tshekh}}
+{{zh-han|m=cì|c=ci3|mn-t=ci3}}
+**'''[[中古音]]''': tshjeH
+**'''[[上古音]]''': 
+***'''布之道''': /*tsʰekh/
+
+=={{L|ko}}==
+{{ko-han|자}}
+
+=={{コード}}==
+{{文字コード|mj={{mjmoji|001028}}|gb=3A48|cns=5-2926|全={{全字庫|338214}}}}
+{{検字|倉頡=IDB|四角=0029.2}}
+{{字典|諸橋=9309|康煕=0345.220|hdz=20882.010|広韻=347.28|vt=C03269}}

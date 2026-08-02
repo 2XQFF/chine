@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-07-23T00:40:03.416Z",
+  "entryCount": 50892,
+  "readingCount": 50892,
+  "sources": [
+    {
+      "name": "Unicode Unihan",
+      "url": "https://unicode.org/Public/UNIDATA/Unihan.zip",
+      "fields": [
+        "kMandarin",
+        "kCantonese",
+        "kJapaneseOn",
+        "kKorean",
+        "kVietnamese",
+        "kDefinition"
+      ]
+    },
+    {
+      "name": "WikiHan",
+      "url": "https://github.com/cmu-llab/wikihan",
+      "fields": [
+        "data/MC/mc-pron-baxter.csv",
+        "data/MC/mc-pron-baxter_heteronyms.csv",
+        "Baxter-Sagart 2014 Middle Chinese IPA"
+      ]
+    },
+    {
+      "name": "TshetUinh.js",
+      "url": "https://nk2028.shn.hk/tshet-uinh-js/",
+      "fields": [
+        "Guangyun headword lookup",
+        "phonological position",
+        "fanqie",
+        "gloss",
+        "Baxter 2014 derivation"
+      ]
+    },
+    {
+      "name": "Wiktionary Middle Chinese pronunciation data modules",
+      "url": "https://en.wiktionary.org/wiki/Category:Middle_Chinese_pronunciation_data_modules",
+      "fields": [
+        "ltc-pron raw reading categories"
+      ]
+    }
+  ]
+}

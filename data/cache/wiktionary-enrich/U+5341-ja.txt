@@ -1,0 +1,232 @@
+{{kana-DEFAULTSORT|じゅう}}
+==漢字==
+{{kanji|十|0}}
+{{kanji variants|拾=[[大字]]|什}}
+*筆順 : [[image:{{PAGENAME}}-bw.png|200px]]
+===字源===
+* 未詳。一説に「[[一]]」を縦にした形<ref group="字源">于省吾主編『甲骨文字詁林』中華書局、1996年、[https://jgw.aynu.edu.cn/home/zx/child/gl.html?url=3503 3503-3504頁]。<br>季旭昇撰 『説文新証』 芸文印書館、2014年、155頁。<br>香港中文大学『漢語多功能字庫』「[https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8D%81 十]」</ref>。「[[とお]]」を意味する[[漢語]]｛[[十]] {{phoneme|*ɡip}}｝を表す字。
+** 針の[[象形文字|象形]]とする説があるが<ref group="字源">裘錫圭《釋郭店《緇衣》“出言有丨，黎民所𧥞”——兼説“丨”爲“針”之初文》 『古墓新知——紀念郭店楚簡出土十周年論文專輯』國際炎黄文化出版社、2012<br>季旭昇撰 『説文新証』 芸文印書館、2014年、155頁。<br>香港中文大学『漢語多功能字庫』「[https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E5%8D%81 十]」</ref>、「[[針]]」字の成立が「[[鍼]]」よりも遅く不自然であることや、｛[[箴]]｝の[[表意]][[初文]]（[[箴#字源]]を参照）が別に存在していることから、近年ではあまり有力視されていない<ref group="字源">鄔可晶、施瑞峰 《説“朕”“灷”》 『文史』2022年2期、13-17頁。</ref>。
+{{字源}}
+====参考文献====
+* [[上古音]]は布之道『[http://www.kaom.net/sgy_bzd.php 広韻形声考]』による。
+<references group="字源" />
+===意義===
+# [[九]]の次の数。[[二]]の[[五]]倍。
+#[[多数]]。
+#[[十分]]。
+[[Category:数字|10]]
+[[Category:漢数字]]
+
+=={{L|ja}}==
+{{wikipedia|10}}
+[[Category:{{ja}}]]
+{{ja-kanji|常用=ジュウ,ジッ,とお,と|施策=教育:1|呉音=ジュウ<ジフ,ジッ|漢音=シュウ<シフ|慣用音=ジュッ|訓=とお,と,そ,とおらい}}
+*「十」の伝来時の音は{{IPAchar|[ʑip]}}と推定され、当時の日本語にない[-p]の音（[[入声]]）は「-フ（音は{{IPAchar|[-ɸu]}}と推定されている）」と音写されたため、「十」は「ジフ」として受け入れられ、後に「ジュウ」に変化した。一方、入声はksthpといった無声子音が後続するときは[[促音便]]化するという性質（例.合[ガフ]→合算[ガッサン]）があったため、「十」も促音便は「ジッ」であり「十本」は「ジッポン」、「十間」は「ジッケン」と発音された。近年になり、「ジュウ」の音に引きずられ、促音便は「ジュッ」が広く受け入れられるようになった<ref name="NHK" />。[[w:常用漢字#改定|改定常用漢字表]]では、備考に「『ジュッ』とも。」と注記されている<ref name="Joyokanjihyo" />。
+*: '''十'''円（'''じゅう'''えん）
+*: '''十'''個（現代の発音: '''じゅっ'''こ、伝統的な発音: '''じっ'''こ）
+===数詞===
+[[Category:{{ja}}_数詞]]
+# [[九]]の次の数。[[二]]の[[五]]倍。
+==== {{trans}} ====
+{{trans-top}}
+*{{T|ar}}: {{t|ar|عَشَرَةٌ}}
+*{{T|sq}}: {{t|sq|dhjetë}}
+*{{T|it}}: {{t|it|dieci}}
+*{{T|ia}}: {{t|ia|dece}}
+*{{T|id}}: {{t|id|sepuluh}}
+*{{T|oaa}}: {{t|oaa|ӡо̄н}}
+*{{T|cy}}: {{t|cy|deg}}
+*{{T|vo}}: {{t|vo|deg}}
+*{{T|en}}: {{t|en|ten}}
+*:{{T|ang}}: {{t|ang|tīen}}, {{t|ang|tēn}}
+*{{T|et}}: {{t|et|kümme}}
+*{{T|eo}}: {{t|eo|dek}}
+*{{T|nl}}: {{t|nl|tien}}
+*{{T|or}}: {{t|or|ଦଶ}}
+*{{T|ca}}: {{t|ca|deu}}
+*{{T|el}}: {{t|el|δέκα}}
+*{{T|gu}}: {{t|gu|દશ}}
+*{{T|kl}}: {{t|kl|pa}}
+*{{T|qu}}: {{t|qu|chunka}}
+*{{T|got}}: {{t|got|𐍄𐌰𐌹𐌷𐌿𐌽}}
+*{{T|co}}: {{t|co|deci}}
+*{{T|sm}}: {{t|sm|sefulu}}
+*{{T|sa}}: (dashan), {{t|sa|दश}}
+*{{T|jv}}: {{t|jv|qulit}}
+*{{T|sv}}: {{t|sv|tio}}
+*{{T|es}}: {{t|es|diez}}
+*{{T|sk}}: {{t|sk|desať}}
+*{{T|sl}}: {{t|sl|des}}, {{t|sl|deset}}
+*{{T|sw}}: {{t|sw|kumi}}
+*{{T|sh}}: {{t|sh|deset}}
+*{{T|th}}: {{t|th|สิบ}}
+*{{T|tl}}: {{t|tl|sampu}}
+*{{T|cs}}: {{t|cs|deset}}
+*{{T|zh}}: {{t|zh|十}} (ピンイン:shí 広東:sap6)
+*{{T|ko}}: {{t|ko|열}}, {{t|ko|십}}
+*{{T|dv}}: {{t|dv|ދިހައެއް}}
+*{{T|da}}: {{t|da|ti}}
+*{{T|de}}: {{t|de|zehn}}
+*{{T|tpi}}: {{t|tpi|tenpela}}
+*{{T|tk}}: {{t|tk|sefulu}}
+*{{T|tr}}: {{t|tr|on}}
+*{{T|na}}: {{t|na|ata}}
+*{{T|gld}}: {{t|gld|дёан}}
+*{{T|nah}}: [[matlactli]]
+*{{T|fy}}: {{t|fy|tsien}}
+*{{T|no}}: {{t|no|dek}}, {{t|no|ti}}
+*{{T|eu}}: {{t|eu|hamar}}
+*{{T|hu}}: {{t|hu|tíz}}
+*{{T|hi}}: {{t|hi|दस}}
+*{{T|fi}}: {{t|fi|kymmenen}}
+*{{T|fr}}: {{t|fr|dix}}
+*{{T|br}}: {{t|br|dek}}
+*{{T|vi}}: {{t|vi|mười}}
+*{{T|he}}: {{t|he|עשר|tr=‘ésser}}
+*{{T|fa}}: {{t|fa|دَه|tr=dæh}}
+*{{T|pl}}: {{t|pt|dziesięć}}
+*{{T|pt}}: {{t|pt|dez}}
+*{{T|chm}}: [[joñoul]]
+*{{T|mnc}}: {{MongolUnicode|lang=mnc|[[ᠵᡠᠸᠠᠨ]]}} [[juwan]]
+*{{T|la}}: [[X]], {{t|la|decem}}
+*{{T|ro}}: {{t|ro|zece}}
+*{{T|ru}}: {{t|ru|десять}}
+{{trans-bottom}}
+
+===熟語===
+{{top}}
+*{{ふりがな|五位七十五法|ごいしちじゅうごほう|yomilink=n}}
+*{{ふりがな|十戒|じっかい|yomilink=n}}
+*{{ふりがな|十界|じっかい|yomilink=n}}
+*{{ふりがな|十干|じっかん|yomilink=n}}
+*{{ふりがな|十種競技|じっしゅきょうぎ|yomilink=n}}
+*{{ふりがな|十徳|じっとく|yomilink=n}}
+*{{ふりがな|十悪|じゅうあく|yomilink=n}}
+*{{ふりがな|十義|じゅうぎ|yomilink=n}}
+*{{ふりがな|十字|じゅうじ|yomilink=n}}
+*{{ふりがな|十字架|じゅうじか|yomilink=n}}
+*{{ふりがな|十字軍|じゅうじぐん|yomilink=n}}
+*{{ふりがな|十善|じゅうぜん|yomilink=n}}
+*{{ふりがな|十二因縁|じゅうにいんねん|yomilink=n}}
+*{{ふりがな|十二支|じゅうにし|yomilink=n}}
+*{{ふりがな|十二処|じゅうにしょ|yomilink=n}}
+*{{ふりがな|十八界|じゅうはちかい|yomilink=n}}
+*{{ふりがな|十八番|じゅうはちばん|yomilink=n}}
+*{{ふりがな|十八公|じゅうはっこう|yomilink=n}}
+*{{ふりがな|十分|じゅうぶん|yomilink=n}}, {{ふりがな|十分|じゅっぷん|yomilink=n}}
+*{{ふりがな|十万億土|じゅうまんおくど|yomilink=n}}
+*{{ふりがな|十万億仏土|じゅうまんおくぶつど|yomilink=n}}
+*{{ふりがな|十有五|じゅうゆうご|yomilink=n}}
+*{{ふりがな|十翼|じゅうよく|yomilink=n}}
+*{{ふりがな|十露盤|そろばん|yomilink=n}}
+{{bottom}}
+===参考文献===
+<references>
+<ref name="NHK">NHK 放送文化研究所, (2005), NHK ことばのハンドブック, 日本放送出版協会, ISBN 978-4140112182</ref>
+<ref name="Joyokanjihyo">[http://www.bunka.go.jp/kokugo_nihongo/pdf/jouyoukanjihyou_h22.pdf 常用漢字表（平成22年11月30日内閣告示）（PDF形式）]</ref>
+</references>
+
+=={{L|zh}}==
+==={{etym}}===
+{{etyl|sit-pro|zh|sort=shi2}} {{m|sit-pro|*sV-ɢip}}
+{{zh-cat|shi2|数詞|形容詞|hsk=甲|hsk2=1|常=1}}
+==={{pron}}===
+{{zh-han
+|m=shí
+|m-s=si2
+|m-x=shí
+|m-nj=shii̊q
+|dg=шы
+|c=sap6
+|c-dg=sok8
+|c-t=sip5
+|c-yj=sap6
+|g=siit7
+|pfs=sṳ̍p
+|hrs=shibˋ
+|gd=seb6
+|j=seh5
+|mb=sí/sī
+|md=sĕk
+|mn=ml,jj,ha,zp,ct,tw:cha̍p/ml,jj,zp,ct,tw:si̍p/ha:se̍p/ly:chia̍p
+|mn-t=zab8/zag8
+|mn-l=zab8/xib4
+|px=pt:sae2/xy:sieh7/pt,xy:seh7/pt,xy:sih7
+|sp=sap6
+|w=8zeq,1so,7seq
+|w-j=8zhiq
+|x=shr6
+|x-l=xi4
+|x-h=xi2
+|mc=y
+|oc=y
+}}
+==={{numeral}}===
+#[[10]]、[[とお]]。
+==={{adjective}}===
+#[[完全]]な、[[トップ]]の。
+#*[[十全十美]]
+==={{prov}}===
+{{top}}
+* {{l|zh|十八般武艺}}
+* {{l|zh|十八变}}
+* {{l|zh|十八层地狱}}
+* {{l|zh|十八罗汉}}
+* {{l|zh|十步芳草}}
+* {{l|zh|十成}}
+* {{l|zh|十冬腊月}}
+* {{l|zh|十恶不赦}}
+* {{l|zh|十二分}}
+* {{l|zh|十二属相}}
+* {{l|zh|十二指肠}}
+* {{l|zh|十分}}
+* {{l|zh|十分话}}
+* {{l|zh|十风五雨}}
+* {{l|zh|十个指头不一般齐}}
+* {{l|zh|十行俱下}}
+* {{l|zh|十进对数}}
+* {{zh-l|十進法}}
+* {{zh-l|十進制}}
+* {{l|zh|十目所视，十手所指}}
+* {{l|zh|十拿九稳}}
+* {{l|zh|十年九不遇}}
+* {{l|zh|十年如一日}}
+* {{l|zh|十全}}
+* {{l|zh|十全十美}}
+* {{l|zh|十万火急}}
+* {{l|zh|十有八九}}
+* {{l|zh|十月革命}}
+* {{l|zh|十字架}}
+* {{l|zh|十字街头}}
+* {{l|zh|十字军}}
+* {{l|zh|十足}}
+* {{l|zh|十之八九}}
+* {{l|zh|十隻手指有長短}}
+* {{l|zh|十隻十指有長短}}
+* {{l|zh|十指连心}}
+{{bottom}}
+
+=={{L|ko}}==
+{{ko-han|십|eumhun=[[열]] 십|pos=numeral}}
+==={{numeral}}===
+{{lang|ko|'''十'''}}
+#[[10]]。
+===={{rel}}====
+* {{l|ko|열}}
+==={{prov}}===
+* {{l|ko|시월}} &lt;[[十月]]&gt;
+* {{l|ko|십간}} &lt;[[十干]]&gt;
+* {{l|ko|십분}} &lt;[[十分]]&gt;
+* {{l|ko|십이월}} &lt;[[十二月]]&gt;
+* {{l|ko|십이지}} &lt;[[十二支]]&gt;
+* {{l|ko|십자}} &lt;[[十字]]&gt;
+* {{l|ko|십전}} &lt;[[十全]]&gt;
+* {{l|ko|십중팔구}} &lt;[[十中八九]]&gt;
+
+=={{L|vi}}==
+{{vi-han|thập}}
+
+=={{コード}}==
+{{文字コード|jis=1-29-29|mj={{mjmoji|007834}}|gb=CAAE|cns=1-4432|big5=A451|ksx=1001-6428}}
+{{検字|倉頡=J|四角=4000.0}}
+{{字典|dj=0348.060|hdz=10058.090|大字源=902|大漢語林=1097|康煕=0155.170|新大字典=1473|新潮漢字=1107|諸橋=2695}}
