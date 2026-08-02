@@ -2695,7 +2695,7 @@ const koreanSearchReadingPriorityByToken = {
   갈: "葛渴褐竭",
   감: "感甘減監敢鑑勘",
   갑: "甲匣岬鉀",
-  강: "江降講强康綱鋼剛",
+  강: "江降講強康綱鋼剛",
   개: "開改皆個介慨槪蓋",
   객: "客",
   거: "車去居擧據巨拒距渠遽鉅鋸",
@@ -3842,15 +3842,28 @@ function koreanReadingPriorityIndex(char, tokens) {
   tokens.forEach((token) => {
     const priorityChars = koreanSearchReadingPriorityByToken[token];
     if (!priorityChars) return;
-    const index = priorityChars.indexOf(char);
+    const normalizedPriorityChars = normalizeKoreanPriorityChars(priorityChars);
+    const index = normalizedPriorityChars.indexOf(char);
     if (index !== -1) best = Math.min(best, index);
   });
   return best;
 }
 
 function globalKoreanPriorityIndex(char) {
-  const index = koreanSearchPriorityChars.indexOf(char);
+  const index = normalizeKoreanPriorityChars(koreanSearchPriorityChars).indexOf(char);
   return index === -1 ? Infinity : index;
+}
+
+const normalizedKoreanPriorityCharsCache = new Map();
+
+function normalizeKoreanPriorityChars(chars) {
+  const key = String(chars || "");
+  if (normalizedKoreanPriorityCharsCache.has(key)) return normalizedKoreanPriorityCharsCache.get(key);
+  const normalized = [...key]
+    .map((char) => preferredSearchCandidateChar(char))
+    .join("");
+  normalizedKoreanPriorityCharsCache.set(key, normalized);
+  return normalized;
 }
 
 function preferredSearchCandidateChar(char, seen = new Set()) {
