@@ -41,6 +41,16 @@
       "fields": [
         "ltc-pron raw reading categories"
       ]
+    },
+    {
+      "name": "한국어문회 배정한자 대표훈음 CSV mirror",
+      "url": "https://github.com/rycont/hanja-grade-dataset",
+      "fields": [
+        "main_sound",
+        "level",
+        "hanja",
+        "meaning"
+      ]
     }
   ]
 }
