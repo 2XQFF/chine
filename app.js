@@ -22,7 +22,7 @@ function expandCompactDictionaryRow(row, japaneseOnRawByChar = compactJapaneseOn
     japaneseKan: jp?.kan || { modernKana: "", historicalKana: "" },
     japaneseKanyo: jp?.kanyo || { modernKana: "", historicalKana: "" },
     popularJapaneseOnKana: japaneseOnKana,
-    korean: koreanToHangul(korean || ""),
+    korean: koreanDisplayReadingForChar(char, korean),
     vietnamese: hanViet || vietnamese,
   };
   const readings = mcReadings?.length
@@ -1994,8 +1994,8 @@ function hanDisplayFormSourcesForChar(char) {
 
 function hanDisplayFormsForChar(char) {
   const forms = typeof HAN_DISPLAY_FORMS !== "undefined" ? HAN_DISPLAY_FORMS : {};
-  const simplified = forms.simplified?.[char] || "";
-  const japanese = forms.japanese?.[char] || "";
+  const simplified = hanDisplayFormOverrides.simplified[char] || forms.simplified?.[char] || "";
+  const japanese = hanDisplayFormOverrides.japanese[char] || forms.japanese?.[char] || "";
   return {
     simplified: simplified && simplified !== char ? simplified : "",
     japanese: japanese && japanese !== char ? japanese : "",
@@ -2548,6 +2548,12 @@ const compactJapaneseOnRawByChar = new Map(compactDictionaryRows.map((row) => [r
 const canonicalHanOverrides = new Map([
   ["同", "同"],
   ["仝", "同"],
+  ["强", "強"],
+  ["青", "靑"],
+  ["清", "淸"],
+  ["静", "靜"],
+  ["晴", "晴"],
+  ["精", "精"],
   ["冬", "冬"],
   ["鼕", "冬"],
   ["万", "萬"],
@@ -2686,6 +2692,20 @@ const canonicalHanOverrides = new Map([
   ["麦", "麥"],
   ["黄", "黃"],
 ]);
+const hanDisplayFormOverrides = {
+  simplified: {
+    靑: "青",
+    淸: "清",
+  },
+  japanese: {
+    靑: "青",
+    淸: "清",
+  },
+};
+const blockedSearchCandidateChars = new Set([..."卝覌尭仭"]);
+const suppressedKoreanReadingsByChar = {
+  食: new Set(["사"]),
+};
 const compactKoreanReadingIndex = buildCompactKoreanReadingIndex(compactDictionaryRows);
 const koreanSearchPriorityChars = "日月火水木金土天地人中大小上下左右東西南北一二三四五六七八九十百千萬年分國學漢文王心生長行法物事社思寺史司使四士仕師私死舍射寫謝詞辭成常上尙尙城性姓省聲星世勢稅洗細歲手首受授守收樹書暑署所素少笑消昭照食息式識植直職志至知紙地持指支之";
 const koreanSearchReadingPriorityByToken = {
@@ -3078,7 +3098,6 @@ const koreanSearchReadingPriorityByToken = {
   희: "喜希戲",
 };
 const traditionalDisplayHomographAllowlist = new Set([..."同干于云后斗只台里余面谷卜尸几儿才采系克制別舍岳丑出合向回因困冬千女子寸小山川州工己巾弓心戈戶手支文斤方日月木水火父片牙牛犬王瓦甘生用田白皮皿目矢石示禾穴立竹米糸缶羊羽老而耳聿肉臣自至臼舌舟艮色虫血行衣見角言豆豕貝赤走足身車辛辰邑酉里金長門隹雨靑非面革韋音頁風食首香馬骨高鬼魚鳥鹿麻黃黑鼎鼓鼻齊齒龍龜"]);
-const blockedSearchCandidateChars = new Set([..."卝覌尭仭"]);
 const nonHeadwordMeaningPattern = /\b(?:same as|variant|ancient form|non-classical|corrupted|simplified form|old form|incorrect form|interchangeable|vulgar form)\b|Unihan 독음 데이터 기반 자동 수집/i;
 const candidateHanjaHun = {
   一: "한", 二: "두", 三: "석", 四: "넉", 五: "다섯", 六: "여섯", 七: "일곱", 八: "여덟", 九: "아홉", 十: "열",
@@ -3137,25 +3156,76 @@ function dictionaryEntryForChar(char) {
 
 function buildCompactKoreanReadingIndex(rows) {
   const index = new Map();
+  const addToken = (token, char) => {
+    if (!token) return;
+    const list = index.get(token) || [];
+    if (!list.includes(char)) list.push(char);
+    index.set(token, list);
+  };
   rows.forEach((row) => {
-    const char = canonicalDictionaryChar(row[0]);
+    const char = shouldPreserveOfficialKoreanHanja(row[0]) ? row[0].normalize("NFKC") : canonicalDictionaryChar(row[0]);
     koreanReadingsForSearchIndex(char, row[5]).forEach((token) => {
-      const list = index.get(token) || [];
-      list.push(char);
-      index.set(token, list);
+      addToken(token, char);
     });
   });
   return index;
 }
 
 function koreanReadingsForSearchIndex(char, rawKorean) {
-  const readings = new Set(splitSearchTokens(koreanToHangul(rawKorean || "")));
+  const readings = new Set(koreanReadingTokensForChar(char, rawKorean));
+  officialKoreanReadingsForChar(char).forEach((token) => readings.add(token));
   const curated = curatedReadingMapForChar(curatedReadingSino, char);
   for (const value of Object.values(curated || {})) {
     splitSearchTokens(koreanToHangul(value?.korean || "")).forEach((token) => readings.add(token));
   }
   [...readings].forEach((token) => koreanInitialLawAliases(token).forEach((alias) => readings.add(alias)));
   return [...readings];
+}
+
+function koreanDisplayReadingForChar(char, rawKorean) {
+  const tokens = koreanReadingTokensForChar(char, rawKorean);
+  return tokens.join(" ");
+}
+
+function koreanReadingTokensForChar(char, rawKorean) {
+  return splitSearchTokens(koreanToHangul(rawKorean || ""))
+    .filter((token) => !isSuppressedKoreanReading(char, token));
+}
+
+function isSuppressedKoreanReading(char, token) {
+  const normalized = preferredSearchCandidateChar(String(char || "").normalize("NFKC"));
+  return Boolean(suppressedKoreanReadingsByChar[normalized]?.has(token));
+}
+
+function isOfficialKoreanHanja(char) {
+  if (typeof KOREAN_HANJA_GRADES === "undefined") return false;
+  const normalized = String(char || "").normalize("NFKC");
+  return Boolean(KOREAN_HANJA_GRADES[char] || KOREAN_HANJA_GRADES[normalized]);
+}
+
+function shouldPreserveOfficialKoreanHanja(char) {
+  const normalized = String(char || "").normalize("NFKC");
+  return isOfficialKoreanHanja(normalized)
+    && !canonicalHanOverrides.has(normalized)
+    && !blockedSearchCandidateChars.has(normalized);
+}
+
+function officialKoreanReadingsForChar(char) {
+  const hun = officialKoreanHunMapForChar(char);
+  return hun ? Object.keys(hun).filter(Boolean) : [];
+}
+
+function officialKoreanHunMapForChar(char) {
+  if (typeof KOREAN_HUN === "undefined") return null;
+  const candidates = uniqueValues([
+    char,
+    char?.normalize?.("NFKC"),
+    preferredSearchCandidateChar(char || ""),
+  ].filter(Boolean));
+  for (const candidate of candidates) {
+    if (KOREAN_HUN[candidate]) return KOREAN_HUN[candidate];
+  }
+  return null;
 }
 
 function koreanInitialLawAliases(token) {
@@ -3791,7 +3861,7 @@ function koreanSearchCandidatesForTokens(tokens) {
   return sortKoreanReadingCandidates(uniqueValues(
     tokens
       .flatMap((token) => compactKoreanReadingIndex.get(token) || [])
-      .map((char) => canonicalDictionaryChar(char))
+      .map((char) => shouldPreserveOfficialKoreanHanja(char) ? char.normalize("NFKC") : canonicalDictionaryChar(char))
       .map((char) => preferredSearchCandidateChar(char))
       .filter((char) => compactDictionaryRowsByChar.has(char)),
   ), tokens).filter(isPreferredSearchCandidateChar);
@@ -3871,6 +3941,7 @@ function preferredSearchCandidateChar(char, seen = new Set()) {
   seen.add(char);
   const normalized = char.normalize("NFKC");
   if (normalized && normalized !== char) return preferredSearchCandidateChar(normalized, seen);
+  if (shouldPreserveOfficialKoreanHanja(char)) return char;
   const canonical = canonicalHanOverrides.get(char);
   if (canonical && canonical !== char) return preferredSearchCandidateChar(canonical, seen);
   const displaySource = hanDisplayFormSourcesForChar(char)
@@ -3885,6 +3956,7 @@ function preferredSearchCandidateChar(char, seen = new Set()) {
 function isPreferredSearchCandidateChar(char) {
   if (!char || char.normalize("NFKC") !== char) return false;
   if (blockedSearchCandidateChars.has(char)) return false;
+  if (shouldPreserveOfficialKoreanHanja(char)) return true;
   const canonical = canonicalHanOverrides.get(char);
   if (canonical && canonical !== char) return false;
   const displaySources = hanDisplayFormSourcesForChar(char).filter((source) => source !== char);
@@ -4360,7 +4432,7 @@ async function showCandidateEntry(char, koreanReadingTokens = []) {
     return;
   }
   results.innerHTML = "";
-  const filtered = entry.readings.filter((reading) => koreanReadingMatches(reading.sino?.korean, koreanReadingTokens));
+  const filtered = entry.readings.filter((reading) => koreanReadingMatches(reading.sino?.korean, koreanReadingTokens, entry.char));
   results.append(renderKoreanFilteredEntry(entry, koreanReadingTokens));
   const suffix = filtered.length
     ? ` (${koreanReadingTokens.join(", ")} 독음 ${filtered.length}개)`
@@ -4371,25 +4443,29 @@ async function showCandidateEntry(char, koreanReadingTokens = []) {
 function renderKoreanFilteredEntry(entry, tokens) {
   return renderFilteredEntry(
     entry,
-    (reading) => koreanReadingMatches(reading.sino?.korean, tokens),
-    (reading) => narrowReadingKoreanToTokens(reading, tokens),
+    (reading) => koreanReadingMatches(reading.sino?.korean, tokens, entry.char),
+    (reading) => narrowReadingKoreanToTokens(reading, tokens, entry.char),
   );
 }
 
-function narrowReadingKoreanToTokens(reading, tokens) {
+function narrowReadingKoreanToTokens(reading, tokens, char = "") {
   const narrowed = displayKoreanReadingTokens(matchingKoreanReadingTokens(reading.sino?.korean, tokens), tokens);
-  if (!narrowed.length) return reading;
+  const official = displayKoreanReadingTokens(matchingOfficialKoreanReadingTokens(char, tokens), tokens);
+  const display = narrowed.length ? narrowed : official;
+  if (!display.length) return reading;
   return {
     ...reading,
     sino: {
       ...reading.sino,
-      korean: narrowed.join(" "),
+      korean: display.join(" "),
     },
   };
 }
 
-function koreanReadingMatches(value, tokens) {
-  return !tokens.filter(Boolean).length || matchingKoreanReadingTokens(value, tokens).length > 0;
+function koreanReadingMatches(value, tokens, char = "") {
+  return !tokens.filter(Boolean).length
+    || matchingKoreanReadingTokens(value, tokens).length > 0
+    || matchingOfficialKoreanReadingTokens(char, tokens).length > 0;
 }
 
 function matchingKoreanReadingTokens(value, tokens) {
@@ -4397,6 +4473,13 @@ function matchingKoreanReadingTokens(value, tokens) {
   if (!wanted.size) return [];
   const readings = splitSearchTokens(koreanToHangul(value || ""));
   return readings.filter((token) => wanted.has(token) || koreanInitialLawAliases(token).some((alias) => wanted.has(alias)));
+}
+
+function matchingOfficialKoreanReadingTokens(char, tokens) {
+  const wanted = new Set(tokens.filter(Boolean).flatMap(koreanReadingSearchEquivalents));
+  if (!wanted.size || !char) return [];
+  return officialKoreanReadingsForChar(char)
+    .filter((token) => wanted.has(token) || koreanInitialLawAliases(token).some((alias) => wanted.has(alias)));
 }
 
 function escapeHtml(value) {
