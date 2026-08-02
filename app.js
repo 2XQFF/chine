@@ -3799,6 +3799,9 @@ function koreanSearchCandidatesForTokens(tokens) {
 
 function sortKoreanReadingCandidates(chars, tokens = []) {
   return [...chars].sort((a, b) => {
+    const ag = koreanHanjaGradeIndex(a);
+    const bg = koreanHanjaGradeIndex(b);
+    if (ag !== bg) return ag - bg;
     const ar = koreanReadingPriorityIndex(a, tokens);
     const br = koreanReadingPriorityIndex(b, tokens);
     if (ar !== br) return ar - br;
@@ -3807,6 +3810,31 @@ function sortKoreanReadingCandidates(chars, tokens = []) {
     if (ap !== bp) return ap - bp;
     return a.localeCompare(b, "ko");
   });
+}
+
+const koreanHanjaGradeOrder = [
+  "8급",
+  "7급Ⅱ",
+  "7급",
+  "6급Ⅱ",
+  "6급",
+  "5급Ⅱ",
+  "5급",
+  "4급Ⅱ",
+  "4급",
+  "3급Ⅱ",
+  "3급",
+  "2급",
+  "1급",
+  "특급Ⅱ",
+  "특급",
+];
+
+function koreanHanjaGradeIndex(char) {
+  const grades = typeof KOREAN_HANJA_GRADES !== "undefined" ? KOREAN_HANJA_GRADES : null;
+  const level = grades?.[char] || grades?.[char?.normalize?.("NFKC") || char];
+  const index = koreanHanjaGradeOrder.indexOf(level);
+  return index === -1 ? Infinity : index;
 }
 
 function koreanReadingPriorityIndex(char, tokens) {
